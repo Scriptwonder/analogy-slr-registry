@@ -1,0 +1,735 @@
+doi,type,year,source,title
+10.1613/jair.1.15118,article,2025.0,J. Artif. Int. Res.,Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?
+10.1145/3714457,article,2025.0,ACM Comput. Surv.,Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: A Survey
+10.1145/3591196.3593516,inproceedings,2023.0,Proceedings of the 15th Conference on Creativity and Cognition,Fluid Transformers and Creative Analogies: Exploring Large Language Models’ Capacity for Augmenting Cross-Domain Analogical Creativity
+10.1145/3584931.3606983,inproceedings,2023.0,Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing,"Can Password Meter be More Effective Towards User Attention, Engagement, and Attachment?: A Study of Metaphor-based Designs"
+10.1145/3543873.3587333,inproceedings,2023.0,Companion Proceedings of the ACM Web Conference 2023,An Analogical Reasoning Method Based on Multi-task Learning with Relational Clustering
+10.1145/3643745,article,2024.0,Proc. ACM Softw. Eng.,DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises
+10.1145/3586183.3606803,inproceedings,2023.0,Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology,STAR: Smartphone-analogous Typing in Augmented Reality
+10.1145/3615522.3615534,inproceedings,2023.0,Proceedings of the 16th International Symposium on Visual Information Communication and Interaction,Metaphor Design of Dockless Bike-sharing Based on Spatio-temporal Geographic Data
+10.1145/3613905.3651035,inproceedings,2024.0,Extended Abstracts of the CHI Conference on Human Factors in Computing Systems,BioSpark: An End-to-End Generative System for Biological-Analogical Inspirations and Ideation
+10.1145/3166072.3166077,inproceedings,2017.0,Proceedings of the 22nd Australasian Document Computing Symposium,Efficient Analogy Completion with Word Embedding Clusters
+10.1145/3637528.3671583,inproceedings,2024.0,Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,Know Your Needs Better: Towards Structured Understanding of Marketer Demands with Analogical Reasoning Augmented LLMs
+10.1145/3582768.3582794,inproceedings,2023.0,Proceedings of the 2022 6th International Conference on Natural Language Processing and Information Retrieval,An Analogy based Approach for Solving Target Sense Verification
+10.1145/3591196.3596817,inproceedings,2023.0,Proceedings of the 15th Conference on Creativity and Cognition,AnalogiLead: Improving Selection of Analogical Inspirations with Chunking and Recombination
+10.1145/3583780.3615030,inproceedings,2023.0,Proceedings of the 32nd ACM International Conference on Information and Knowledge Management,Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning
+10.1145/3530013,article,2022.0,ACM Trans. Comput.-Hum. Interact.,Augmenting Scientific Creativity with an Analogical Search Engine
+10.1145/2556288.2557371,inproceedings,2014.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Distributed analogical idea generation: inventing with crowds
+10.1145/3626772.3657697,inproceedings,2024.0,Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval,Generative Retrieval as Multi-Vector Dense Retrieval
+10.1145/3543507.3587431,inproceedings,2023.0,Proceedings of the ACM Web Conference 2023,CAM: A Large Language Model-based Creative Analogy Mining Framework
+10.1145/3677386.3682090,inproceedings,2024.0,Proceedings of the 2024 ACM Symposium on Spatial User Interaction,"Evaluation of Retrieval Techniques for Out-of-Range VR Objects, Contrasting Controller-Based and Free-Hand Interaction"
+10.1145/3641822.3641864,inproceedings,2024.0,Proceedings of the 2024 IEEE/ACM 17th International Conference on Cooperative and Human Aspects of Software Engineering,An Exploratory Study of Programmers' Analogical Reasoning and Software History Usage During Code Re-Purposing
+10.1145/3633053.3633061,inproceedings,2024.0,Proceedings of the 8th Conference on Computing Education Practice,Tool-Driven Scaffolding of Student-Generated Analogies in CS1
+10.1145/3544548.3581120,inproceedings,2023.0,Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,Can we crowdsource Tacton similarity perception and metaphor ratings?
+10.1145/3485279.3485296,inproceedings,2021.0,Proceedings of the 2021 ACM Symposium on Spatial User Interaction,Design and Empirical Evaluation of a Novel Near-field Interaction Metaphor on Distant Object Manipulation in VR
+10.1145/2818048.2835201,inproceedings,2016.0,Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work    amp; Social Computing,Distributed Analogical Idea Generation with Multiple Constraints
+,inproceedings,2020.0,Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems,Off-Policy Deep Reinforcement Learning with Analogous Disentangled Exploration
+10.1145/3626772.3657823,inproceedings,2024.0,Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval,CaLa: Complementary Association Learning for Augmenting Comoposed Image Retrieval
+10.1145/2254556.2254573,inproceedings,2012.0,Proceedings of the International Working Conference on Advanced Visual Interfaces,Metaphor modelling for tangible interfaces evaluation
+10.1145/3019612.3019905,inproceedings,2017.0,Proceedings of the Symposium on Applied Computing,Empirical evaluation of fuzzy analogy for software development effort estimation
+10.1109/TASLP.2020.3040507,article,2020.0,"IEEE/ACM Trans. Audio, Speech and Lang. Proc.",A Knowledge Graph Embedding Approach for Metaphor Processing
+10.1145/3640824.3640859,inproceedings,2024.0,Proceedings of the 2024 8th International Conference on Control Engineering and Artificial Intelligence,DeepHashDetection: Adversarial Example Detection Basedon Similarity Image Retrieval
+10.1145/3664647.3681060,inproceedings,2024.0,Proceedings of the 32nd ACM International Conference on Multimedia,Generating Multimodal Metaphorical Features for Meme Understanding
+10.1145/3097983.3098038,inproceedings,2017.0,Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Accelerating Innovation Through Analogy Mining
+10.1145/3411764.3445325,inproceedings,2021.0,Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems,MetaMap: Supporting Visual Metaphor Ideation through Multi-dimensional Example-based Exploration
+10.1162/COLI_a_00233,article,2015.0,Comput. Linguist.,Design and evaluation of metaphor processing systems
+10.1145/2018358.2018372,inproceedings,2011.0,Proceedings of the 13th International Conference on Artificial Intelligence and Law,"Analogy, similarity and factors"
+10.1145/3627673.3679060,inproceedings,2024.0,Proceedings of the 33rd ACM International Conference on Information and Knowledge Management,Ensembles for Outlier Detection and Evaluation
+10.1109/TASLP.2024.3399026,article,2024.0,"IEEE/ACM Trans. Audio, Speech and Lang. Proc.",Music ControlNet: Multiple Time-Varying Controls for Music Generation
+10.1145/3618320,article,2023.0,ACM Trans. Graph.,Commonsense Knowledge-Driven Joint Reasoning Approach for Object Retrieval in Virtual Reality
+10.1145/1244002.1244303,inproceedings,2007.0,Proceedings of the 2007 ACM Symposium on Applied Computing,Instance-based retrieval by analogy
+10.1145/3474085.3475505,inproceedings,2021.0,Proceedings of the 29th ACM International Conference on Multimedia,Deep Neural Network Retrieval
+10.1145/1414004.1414057,inproceedings,2008.0,Proceedings of the Second ACM-IEEE International Symposium on Empirical Software Engineering and Measurement,Empirical evaluation of analogy-x for software cost estimation
+10.1145/3635059.3635104,inproceedings,2024.0,Proceedings of the 27th Pan-Hellenic Conference on Progress in Computing and Informatics,Large Language Models versus Natural Language Understanding and Generation
+10.1145/3700906.3700984,inproceedings,2024.0,"Proceedings of the International Conference on Image Processing, Machine Learning and Pattern Recognition",Research on a Software System Size Evaluation Model Combining BiLSTM-CRF with Domain Adaptation Learning
+10.1145/3106668.3106671,inproceedings,2017.0,Proceedings of the 9th Workshop on Multimedia for Cooking and Eating Activities in Conjunction with The 2017 International Joint Conference on Artificial Intelligence,Multilingualization of Restaurant Menu by Analogical Description
+10.1145/3421558.3421576,inproceedings,2020.0,Proceedings of the 2020 2nd International Conference on Image Processing and Machine Vision,A Neural-Network Model for Deriving Analogous Three-vector ECGs of S-ICD from Standard Nine-lead ECGs
+10.1145/3543507.3587430,inproceedings,2023.0,Proceedings of the ACM Web Conference 2023,A Prompt Log Analysis of Text-to-Image Generation Systems
+10.1145/3539618.3591880,inproceedings,2023.0,Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval,Recipe-MPR: A Test Collection for Evaluating Multi-aspect Preference-based Natural Language Retrieval
+,inproceedings,2016.0,Proceedings of the 2016 International Conference on Autonomous Agents    amp; Multiagent Systems,Analogical Generalization of Actions from Single Exemplars in a Robotic Architecture
+10.1145/3596510,article,2023.0,ACM Trans. Inf. Syst.,Metaphorical User Simulators for Evaluating Task-oriented Dialogue Systems
+10.1145/1868914.1868920,inproceedings,2010.0,Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries,Let's all get up and walk to the North Pole: design and evaluation of a mobile wellness application
+10.1145/3533271.3561772,inproceedings,2022.0,Proceedings of the Third ACM International Conference on AI in Finance,StyleTime: Style Transfer for Synthetic Time Series Generation
+10.1145/1640233.1640280,inproceedings,2009.0,Proceedings of the Seventh ACM Conference on Creativity and Cognition,Fostering metaphorical creativity using computational metaphor identification
+10.1145/2906151,article,2016.0,ACM Comput. Surv.,Understanding Graph-Based Trust Evaluation in Online Social Networks: Methodologies and Challenges
+10.1145/3478432.3499252,inproceedings,2022.0,Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2,Laundry Overflow: Engaging Diverse Students in CyberSecurity using Interactive Analogies
+10.1145/3626772.3657842,inproceedings,2024.0,Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval,"""In-Context Learning"" or: How I learned to stop worrying and love ""Applied Information Retrieval"""
+10.1145/3434292,article,2021.0,Proc. ACM Program. Lang.,Probabilistic programming semantics for name generation
+10.1145/3097983.3098130,inproceedings,2017.0,Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Visualizing Attributed Graphs via Terrain Metaphor
+10.1145/2984751.2985715,inproceedings,2016.0,Adjunct Proceedings of the 29th Annual ACM Symposium on User Interface Software and Technology,An Input Switching Interface Using Carbon Copy Metaphor
+10.1145/2983323.2983912,inproceedings,2016.0,Proceedings of the 25th ACM International on Conference on Information and Knowledge Management,Evaluating Document Retrieval Methods for Resource Selection in Clustered P2P IR
+10.1145/3526113.3545617,inproceedings,2022.0,Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology,"CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling"
+10.1145/2396761.2396847,inproceedings,2012.0,Proceedings of the 21st ACM International Conference on Information and Knowledge Management,Metaphor: a system for related search recommendations
+,article,2008.0,J. Artif. Int. Res.,Analogical Dissimilarity
+10.1145/1414004.1414064,inproceedings,2008.0,Proceedings of the Second ACM-IEEE International Symposium on Empirical Software Engineering and Measurement,An over-sampling method for analogy-based software effort estimation
+10.1145/3569951.3597581,inproceedings,2023.0,Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good,Machine Learning Potential Function Generation for ab initio Electronic Structure Calculations
+10.1145/2020390.2020407,inproceedings,2011.0,Proceedings of the 7th International Conference on Predictive Models in Software Engineering,An empirical evaluation of outlier deletion methods for analogy-based cost estimation
+10.1145/3394171.3414392,inproceedings,2020.0,Proceedings of the 28th ACM International Conference on Multimedia,GoldenRetriever: A Speech Recognition System Powered by Modern Information Retrieval
+,inproceedings,2008.0,Proceedings of the 2008 Conference on Semantics in Text Processing,Textual entailment as an evaluation framework for metaphor resolution: a proposal
+10.1145/2043674.2043704,inproceedings,2011.0,Proceedings of the Third International Conference on Internet Multimedia Computing and Service,Mobile based multimodal retrieval and navigation of learning objects using a 3D car metaphor
+,inproceedings,2020.0,Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction,Lifespan design of conversational agent with growth and regression metaphor for the natural supervision on robot intelligence
+10.1145/3440084.3441184,inproceedings,2021.0,Proceedings of the 2020 4th International Symposium on Computer Science and Intelligent Control,Intrinsic Evaluation of Word Embeddings for Turkish
+10.1145/2851613.2851974,inproceedings,2016.0,Proceedings of the 31st Annual ACM Symposium on Applied Computing,A review and comparison of methods for determining the best analogies in analogy-based software effort estimation
+10.1145/3677386.3682102,inproceedings,2024.0,Proceedings of the 2024 ACM Symposium on Spatial User Interaction,Evaluating Node Selection Techniques for Network Visualizations in Virtual Reality
+10.1145/2470654.2466201,inproceedings,2013.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Design metaphors for procedural content generation in games
+10.1145/3019612.3019840,inproceedings,2017.0,Proceedings of the Symposium on Applied Computing,A computational model to evaluate honesty in social internet of things
+10.1145/3290605.3300526,inproceedings,2019.0,Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems,Metaphoria: An Algorithmic Companion for Metaphor Creation
+10.1145/1568234.1568236,inproceedings,2009.0,Proceedings of the 12th International Conference on Artificial Intelligence and Law,"Ontological requirements for analogical, teleological, and hypothetical legal reasoning"
+10.1145/3721146.3721951,inproceedings,2025.0,Proceedings of the 5th Workshop on Machine Learning and Systems,May the Memory Be With You: Efficient and Infinitely Updatable State for Large Language Models
+,article,2007.0,J. Usability Studies,Metaphor-based design of high-throughput screening process interfaces
+10.1145/2739480.2754805,inproceedings,2015.0,Proceedings of the 2015 Annual Conference on Genetic and Evolutionary Computation,An Immuno-inspired Approach Towards Sentence Generation
+10.1145/1599301.1599347,inproceedings,2009.0,SIGGRAPH '09: Posters,The design and evaluation of a lightweight multi-view interaction metaphor for 3D visualization in the CAVE
+10.1145/2980258.2982128,inproceedings,2016.0,Proceedings of the International Conference on Informatics and Analytics,Automatic Tamil Lyric Generation based on neuro-linguistics
+10.1145/3495018.3495341,inproceedings,2022.0,2021 3rd International Conference on Artificial Intelligence and Advanced Manufacture,Research Progress on Logging Evaluation Method of Brittleness Index for Unconventional Oil and Gas Reservoirs
+10.1145/3229345.3229410,inproceedings,2018.0,Proceedings of the XIV Brazilian Symposium on Information Systems,Usability evaluation of software debugging tools
+10.1145/3274300,article,2018.0,Proc. ACM Hum.-Comput. Interact.,SOLVENT: A Mixed Initiative System for Finding Analogies between Research Papers
+,inproceedings,2010.0,Proceedings of the 23rd International Conference on Computational Linguistics: Posters,Metaphor interpretation and context-based affect detection
+10.1145/3613904.3642887,inproceedings,2024.0,Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems,BIDTrainer: An LLMs-driven Education Tool for Enhancing the Understanding and Reasoning in Bio-inspired Design
+10.1145/3373165.3373184,inproceedings,2020.0,Proceedings of the Twenty-Second Australasian Computing Education Conference,Evaluating an Interactive Tool for Teaching Design Patterns
+10.1145/1810295.1810463,inproceedings,2010.0,Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2,Developing and evaluating the code bubbles metaphor
+10.1145/3132847.3132917,inproceedings,2017.0,Proceedings of the 2017 ACM on Conference on Information and Knowledge Management,Temporal Analog Retrieval using Transformation over Dual Hierarchical Structures
+10.1145/2838931.2838936,inproceedings,2015.0,Proceedings of the 20th Australasian Document Computing Symposium,Integrating and Evaluating Neural Word Embeddings in Information Retrieval
+10.1145/1370788.1370803,inproceedings,2008.0,Proceedings of the 4th International Workshop on Predictor Models in Software Engineering,Multi-criteria decision analysis for customization of estimation by analogy method AQUA+
+10.1145/2824864.2824866,inproceedings,2014.0,Proceedings of the 6th Annual Meeting of the Forum for Information Retrieval Evaluation,Constructing A Corpus Of Figurative Language For a Tweet Classification and Retrieval Task
+10.1145/2811411.2811469,inproceedings,2015.0,Proceedings of the 2015 Conference on Research in Adaptive and Convergent Systems,An intelligent decision support system for stock analysis and evaluation
+,inproceedings,2017.0,Proceedings of the 21st International Symposium on Distributed Simulation and Real Time Applications,HOLEG: a simulator for evaluating resilient energy networks based on the holon analogy
+10.1145/2069618.2069627,inproceedings,2011.0,Proceedings of the 8th ACM Conference on Creativity and Cognition,Creative gadget design in fictions: generalized planning in analogical spaces
+10.1145/1255047.1255105,inproceedings,2007.0,Proceedings of the International Conference on Advances in Computer Entertainment Technology,Simplified motion language for 3D computer animation with turtle metaphor
+10.1145/2124295.2124299,inproceedings,2012.0,Proceedings of the Fifth ACM International Conference on Web Search and Data Mining,Spatially-aware indexing for image object retrieval
+10.1145/1159733.1159746,inproceedings,2006.0,Proceedings of the 2006 ACM/IEEE International Symposium on Empirical Software Engineering,A comparative study of attribute weighting heuristics for effort estimation by analogy
+10.3115/993268.993293,inproceedings,1996.0,Proceedings of the 16th Conference on Computational Linguistics - Volume 2,Saussurian analogy: a theoretical account and its application
+10.1145/3002151.3002158,inproceedings,2016.0,SIGGRAPH ASIA 2016 Symposium on Visualization,Peeling the flow: a sketch-based interface to generate stream surfaces
+10.3115/1220575.1220698,inproceedings,2005.0,Proceedings of the Conference on Human Language Technology and Empirical Methods in Natural Language Processing,A generalized framework for revealing analogous themes across related topics
+10.1145/3282443,article,2019.0,ACM Trans. Asian Low-Resour. Lang. Inf. Process.,Co-occurrence Weight Selection in Generation of Word Embeddings for Low Resource Languages
+10.1145/3615522.3615564,inproceedings,2023.0,Proceedings of the 16th International Symposium on Visual Information Communication and Interaction,MOONMENT: Designing Gesture-based Interaction with Acousto-Optic Feedbacks
+10.1145/3658136,article,2024.0,ACM Trans. Graph.,Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model
+,inproceedings,1991.0,Proceedings of the 6th International Workshop on Software Specification and Design,Reuse of analogous specifications during requirements analysis
+10.3115/1118975.1118979,inproceedings,2003.0,Proceedings of the ACL 2003 Workshop on Lexicon and Figurative Language - Volume 14,Systematicity and the lexicon in creative metaphor
+10.1145/2909824.3020225,inproceedings,2017.0,Proceedings of the 2017 ACM/IEEE International Conference on Human-Robot Interaction,Design and Evaluation of Adverb Palette: A GUI for Selecting Tradeoffs in Multi-objective Optimization Problems
+10.1145/3290605.3300289,inproceedings,2019.0,Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems,An Evaluation of Radar Metaphors for Providing Directional Stimuli Using Non-Verbal Sound
+10.1145/2808719.2811423,inproceedings,2015.0,"Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics",Fair evaluation of global network aligners
+10.1145/3064663.3064729,inproceedings,2017.0,Proceedings of the 2017 Conference on Designing Interactive Systems,StressTree: A Metaphorical Visualization for Biofeedback-assisted Stress Management
+10.1145/3289600.3290613,inproceedings,2019.0,Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining,ATAR: Aspect-Based Temporal Analog Retrieval System for Document Archives
+10.1145/3434074.3446909,inproceedings,2021.0,Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction,Fake It to Make It: Exploratory Prototyping in HRI
+10.1145/1929916.1929918,article,2011.0,ACM Trans. Manage. Inf. Syst.,Visualizing web search results using glyphs: Design and evaluation of a flower metaphor
+,inproceedings,2008.0,"Proceedings of the IR Research, 30th European Conference on Advances in Information Retrieval",Accessibility in information retrieval
+10.1145/1460096.1460153,inproceedings,2008.0,Proceedings of the 1st ACM International Conference on Multimedia Information Retrieval,Towards a structure-based multimedia retrieval model
+,inproceedings,2007.0,"Large Scale Semantic Access to Content (Text, Image, Video, and Sound)",Multi-modal music information retrieval: visualisation and evaluation of clusterings by both audio and lyrics
+10.1109/EduHPC.2014.6,inproceedings,2014.0,Proceedings of the Workshop on Education for High-Performance Computing,The blue waters student internship program: promoting competence and confidence for next generation researchers in high-performance computing
+10.1145/3691620.3695331,inproceedings,2024.0,Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering,RepoGenix: Dual Context-Aided Repository-Level Code Completion with Language Models
+10.1145/2442576.2442583,inproceedings,2012.0,Proceedings of the 2012 BELIV Workshop: Beyond Time and Errors - Novel Evaluation Methods for Visualization,Interaction junk: user interaction-based evaluation of visual analytic systems
+,inproceedings,2008.0,Proceedings of the Ninth Conference on Australasian User Interface - Volume 76,User evaluation of god-like interaction techniques
+10.1145/2632320.2632326,inproceedings,2014.0,Proceedings of the Tenth Annual Conference on International Computing Education Research,Allegories for learning abstract programming concepts
+10.1145/3306131.3317014,inproceedings,2019.0,Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,Multi-touch 3D positioning with the pantograph technique
+,inproceedings,2012.0,Proceedings of the 7th International Workshop on Automation of Software Test,Automated test-case generation by cloning
+10.1145/1971519.1971556,inproceedings,2010.0,Proceedings of the 8th International Conference on Advances in Mobile Computing and Multimedia,Toward a higher-level visual representation for content-based image retrieval
+10.1145/506443.506630,inproceedings,2002.0,CHI '02 Extended Abstracts on Human Factors in Computing Systems,Using a tree view metaphor to visualize hardware simulation for testing
+10.1145/3320435.3320453,inproceedings,2019.0,"Proceedings of the 27th ACM Conference on User Modeling, Adaptation and Personalization",Estimating Confidence of Individual User Predictions in Item-based Recommender Systems
+10.1145/2078827.2078829,inproceedings,2011.0,Proceedings of the Seventh Symposium on Usable Privacy and Security,"A brick wall, a locked door, and a bandit: a physical security metaphor for firewall warnings"
+10.1145/2897356.2897360,article,2016.0,SIGMETRICS Perform. Eval. Rev.,DoKnowMe: Towards a Domain Knowledge-driven Methodology for Performance Evaluation
+10.1145/503720.503727,inproceedings,1992.0,Proceedings of the 30th Annual ACM Southeast Regional Conference,Generating analogical natural language object descriptions
+10.1145/2408736.2408744,article,2012.0,SIGKDD Explor. Newsl.,Cross domain similarity mining: research issues and potential applications including supporting research by analogy
+10.1145/1404880.1404887,article,2008.0,ACM Trans. Multimedia Comput. Commun. Appl.,Constructing visual phrases for effective and efficient object-based image retrieval
+10.1162/089120100561674,article,2000.0,Comput. Linguist.,A multistrategy approach to improving pronunciation by analogy
+10.1145/2493190.2494441,inproceedings,2013.0,Proceedings of the 15th International Conference on Human-Computer Interaction with Mobile Devices and Services,A study of developing auditory icons for mobile phone service applications in taiwan region
+10.1145/1180639.1180664,inproceedings,2006.0,Proceedings of the 14th ACM International Conference on Multimedia,Effective and efficient object-based image retrieval using visual phrases
+10.1145/3581783.3613822,inproceedings,2023.0,Proceedings of the 31st ACM International Conference on Multimedia,Deconfounded Multimodal Learning for Spatio-temporal Video Grounding
+10.1145/3173574.3173935,inproceedings,2018.0,Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems,How “Wide Walls” Can Increase Engagement: Evidence From a Natural Experiment in Scratch
+10.1145/2837185.2837232,inproceedings,2015.0,Proceedings of the 17th International Conference on Information Integration and Web-Based Applications    amp; Services,Automatic generation of Japanese traditional funny scenario from web content based on web intelligence
+10.1145/2499149.2499167,inproceedings,2013.0,Proceedings of the Biannual Conference of the Italian Chapter of SIGCHI,Designing and experimenting a web3d application for increasing the environmental awareness
+10.1145/564526.564557,inproceedings,2001.0,Proceedings of the 2001 EC/NSF Workshop on Universal Accessibility of Ubiquitous Computing: Providing for the Elderly,Assessment of metaphor efficacy in user interfaces for the elderly: a tentative model for enhancing accessibility
+,inproceedings,2012.0,Proceedings of the ACL 2012 System Demonstrations,Specifying viewpoint and information need with affective metaphors: a system demonstration of the Metaphor Magnet web app/service
+10.1145/2484028.2484170,inproceedings,2013.0,Proceedings of the 36th International ACM SIGIR Conference on Research and Development in Information Retrieval,A document rating system for preference judgements
+10.1145/506309.506313,article,2002.0,ACM Trans. Inf. Syst.,Theory of keyblock-based image retrieval
+10.1145/1923947.1923955,inproceedings,2010.0,Proceedings of the 2010 Conference of the Center for Advanced Studies on Collaborative Research,Sequence diagram to colored Petri nets transformation testing: an immune system metaphor
+10.1145/3679318.3685400,inproceedings,2024.0,Proceedings of the 13th Nordic Conference on Human-Computer Interaction,Evaluating Text Placement in Information-Rich Virtual Environments: A User Study on Controller-Anchored Text
+10.1145/1056663.1056733,article,1982.0,SIGART Bull.,"Propositional &amp; analogical generation of coordinated verbal, visual &amp; musical texts: U. of Wisconsin"
+10.1145/3666025.3699428,inproceedings,2024.0,Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems,Poster Abstract: Tasking Heterogeneous Sensor Systems with LLMs
+10.1145/1643928.1643965,inproceedings,2009.0,Proceedings of the 16th ACM Symposium on Virtual Reality Software and Technology,The magic barrier tape: a novel metaphor for infinite navigation in virtual worlds with a restricted walking workspace
+10.14236/ewic/BCSHCI2024.17,inproceedings,2025.0,Proceedings of the 37th International BCS Human-Computer Interaction Conference,Towards a Framework for Designing Connected Toys
+10.1145/2069618.2069659,inproceedings,2011.0,Proceedings of the 8th ACM Conference on Creativity and Cognition,Design and evaluation of creative and emotional motion
+10.1145/359038.359042,article,1980.0,Commun. ACM,Learning and reasoning by analogy
+10.1145/2307096.2307110,inproceedings,2012.0,Proceedings of the 11th International Conference on Interaction Design and Children,Sciensations: making sense of science by designing with sensors
+10.1145/3632634.3655849,inproceedings,2024.0,Proceedings of the 2024 Computers and People Research Conference,A Human-factors Approach for Evaluating AI-generated Images
+10.1145/2662253.2662282,inproceedings,2014.0,Proceedings of the XV International Conference on Human Computer Interaction,"Evaluation of Disambiguation Mechanisms of Object-Based Selection in Virtual Environment: Which Performances and Features to Support ""Pick Out""?"
+10.1145/1280720.1280740,inproceedings,2007.0,ACM SIGGRAPH 2007 Posters,Leather texture generation considering sulci flow
+10.1145/1013115.1013124,inproceedings,2004.0,"Proceedings of the 5th Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques",Making tea: iterative design through analogy
+,inproceedings,2005.0,Proceedings of the 2005 Asia-Pacific Symposium on Information Visualisation - Volume 45,A user-based evaluation of skeletal animation techniques in graph interaction
+10.1145/503376.503428,inproceedings,2002.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Gestural and audio metaphors as a means of control for mobile devices
+10.1145/937549.937553,article,2003.0,ACM Trans. Comput.-Hum. Interact.,Automatic generation of intelligent diagram editors
+10.1145/3628516.3655785,inproceedings,2024.0,Proceedings of the 23rd Annual ACM Interaction Design and Children Conference,Sense-O-Nary: Exploring Children's Crossmodal Metaphors Through Playful Crossmodal Interactions
+10.1145/584792.584881,inproceedings,2002.0,Proceedings of the Eleventh International Conference on Information and Knowledge Management,Condorcet fusion for improved retrieval
+10.1109/ESEM.2017.46,inproceedings,2017.0,Proceedings of the 11th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement,Which version should be released to app store?
+10.1145/2287696.2287706,article,2012.0,J. Emerg. Technol. Comput. Syst.,Performance evaluation and design trade-offs for wireless network-on-chip architectures
+10.1145/3625008.3625023,inproceedings,2024.0,Proceedings of the 25th Symposium on Virtual and Augmented Reality,Virtual MultiView Panels for Distant Object Interaction and Navigation in Virtual Reality
+10.1145/2069618.2069651,inproceedings,2011.0,Proceedings of the 8th ACM Conference on Creativity and Cognition,Artists &amp; designers: an experiment in data visualization
+10.1145/1498915.1498924,article,2009.0,ACM Trans. Sen. Netw.,Analytic evaluation of target detection in heterogeneous wireless sensor networks
+10.1145/568727.568728,article,2002.0,ACM Trans. Inf. Syst.,Improving retrieval feedback with multiple term-ranking function combination
+10.1162/089120105775299122,article,2005.0,Comput. Linguist.,Co-occurrence Retrieval: A Flexible Framework for Lexical Distributional Similarity
+10.1145/3465456.3467528,inproceedings,2021.0,Proceedings of the 22nd ACM Conference on Economics and Computation,Evolutionarily Stable (Mis)specifications: Theory and Applications
+10.1145/3173574.3173652,inproceedings,2018.0,Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems,VirtualGrasp: Leveraging Experience of Interacting with Physical Objects to Facilitate Digital Object Retrieval
+10.1145/3563291,article,2022.0,Proc. ACM Program. Lang.,Parsing randomness
+10.1145/3654777.3676352,inproceedings,2024.0,Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology,Patchview: LLM-powered Worldbuilding with Generative Dust and Magnet Visualization
+10.1145/3626253.3635506,inproceedings,2024.0,Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2,Analogies in Upper Division Computer Science Courses
+10.1145/3607822.3614520,inproceedings,2023.0,Proceedings of the 2023 ACM Symposium on Spatial User Interaction,How Observers Perceive Teleport Visualizations in Virtual Environments
+10.1145/3700297.3700313,inproceedings,2024.0,Proceedings of the 2024 International Symposium on Artificial Intelligence for Education,Effects of the model of combining computer-aided translation with post editing on the English translation of Cantonese Opera terms
+10.1145/2544114.2544117,inproceedings,2013.0,Proceedings of the 8th Audio Mostly Conference,Designing auditory pointers
+10.1145/3640544.3645241,inproceedings,2024.0,Companion Proceedings of the 29th International Conference on Intelligent User Interfaces,Advancing GUI for Generative AI: Charting the Design Space of Human-AI Interactions through Task Creativity and Complexity
+10.1145/1882992.1883112,inproceedings,2010.0,Proceedings of the 1st ACM International Health Informatics Symposium,MeD-Lights: a usable metaphor for patient controlled access to electronic health records
+10.1109/VISUAL.2004.82,inproceedings,2004.0,Proceedings of the Conference on Visualization '04,PQuad: Visualization of Predicted Peptides and Proteins
+10.1145/1185448.1185510,inproceedings,2006.0,Proceedings of the 44th Annual ACM Southeast Conference,Identifying immediate intention during usability evaluation
+10.1145/1377966.1377978,inproceedings,2008.0,Proceedings of the 2008 Workshop on BEyond Time and Errors: Novel EvaLuation Methods for Information Visualization,Using multi-dimensional in-depth long-term case studies for information visualization evaluation
+10.1145/2181216.2181221,inproceedings,2002.0,Proceedings of the SIGCHI-NZ Symposium on Computer-Human Interaction,A taxonomy of user-interface metaphors
+10.1145/1459359.1459508,inproceedings,2008.0,Proceedings of the 16th ACM International Conference on Multimedia,PicNTell: a camcorder metaphor for screen recording
+10.1145/3627673.3679713,inproceedings,2024.0,Proceedings of the 33rd ACM International Conference on Information and Knowledge Management,Aligning Large Language Models to a Domain-specific Graph Database for NL2GQL
+10.1145/3603719.3603723,inproceedings,2023.0,Proceedings of the 35th International Conference on Scientific and Statistical Database Management,Early ICU Mortality Prediction with Deep Federated Learning: A Real-World Scenario
+10.1145/3648188.3675145,inproceedings,2024.0,Proceedings of the 35th ACM Conference on Hypertext and Social Media,Uncovering Peer Production's Homogeneity: A Synthesis of Serious Information and Entertainment
+10.1145/3568991,article,2023.0,ACM Trans. Math. Softw.,Computational Graphs for Matrix Functions
+10.1145/347642.347655,inproceedings,2000.0,"Proceedings of the 3rd Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques",The social life of engineering authorizations
+10.1145/1842993.1843025,inproceedings,2010.0,Proceedings of the International Conference on Advanced Visual Interfaces,Wavelet menus on handheld devices: stacking metaphor for novice mode and eyes-free selection for expert mode
+10.3115/1075218.1075259,inproceedings,2000.0,Proceedings of the 38th Annual Meeting on Association for Computational Linguistics,Headline generation based on statistical translation
+10.1145/357744.357929,inproceedings,2000.0,Proceedings of the 2000 ACM Workshops on Multimedia,Advanced feature extraction for Keyblock-based image retrieval
+10.1145/3546155.3546666,inproceedings,2022.0,Nordic Human-Computer Interaction Conference,Using Metaphorical Design to Reveal New Perspectives in Systems Design – Insights From a Participatory Design Workshop for Research Data Platforms
+10.1145/1899404.1899405,article,2011.0,ACM Trans. Graph.,Shape google: Geometric words and expressions for invariant shape retrieval
+10.1145/3539618.3591763,inproceedings,2023.0,Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval,Schema-aware Reference as Prompt Improves Data-Efficient Knowledge Graph Construction
+10.1145/3613905.3636318,inproceedings,2024.0,Extended Abstracts of the CHI Conference on Human Factors in Computing Systems,Human-Notebook Interactions: The CHI of Computational Notebooks
+10.1145/323706.323798,inproceedings,1999.0,Proceedings of the 7th International Conference on Artificial Intelligence and Law,A demonstration of a legal reasoning system based on teleological analogies
+10.1145/3687251.3687254,article,2024.0,SIGAPP Appl. Comput. Rev.,Advancing Technical Debt Management in Software Systems with a Comprehensive TD Indicator and Question Catalog
+10.1145/3366030.3366096,inproceedings,2020.0,Proceedings of the 21st International Conference on Information Integration and Web-Based Applications    amp; Services,Generating Anthropomorphism of Subject and Verb by Transformation Matrix
+10.1145/3331184.3331308,inproceedings,2019.0,Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval,Evaluating Variable-Length Multiple-Option Lists in Chatbots and Mobile Search
+10.1145/3539618.3592040,inproceedings,2023.0,Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval,Prediction then Correction: An Abductive Prediction Correction Method for Sequential Recommendation
+10.1145/3639478.3639798,inproceedings,2024.0,Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings,Towards Interpreting the Behavior of Large Language Models on Software Engineering Tasks
+10.1145/3591237,article,2023.0,Proc. ACM Program. Lang.,Loop Rerolling for Hardware Decompilation
+10.1145/3665463.3678810,inproceedings,2024.0,Companion Proceedings of the 2024 Annual Symposium on Computer-Human Interaction in Play,Galaxy Escape: A Game as a Tabletop Holographic Digital Twin Interface
+10.1145/3377811.3380415,inproceedings,2020.0,Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering,Fuzz testing based data augmentation to improve robustness of deep neural networks
+10.1145/3597503.3639160,inproceedings,2024.0,Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,Crossover in Parametric Fuzzing
+10.1145/3628516.3655802,inproceedings,2024.0,Proceedings of the 23rd Annual ACM Interaction Design and Children Conference,"""Bee and I need diversity!"" Break Filter Bubbles in Recommendation Systems through Embodied AI Learning"
+10.1145/3649217.3653533,inproceedings,2024.0,Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1,"""Like a Nesting Doll"": Analyzing Recursion Analogies Generated by CS Students Using Large Language Models"
+10.1145/3338906.3342484,inproceedings,2019.0,Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,Machine learning-assisted performance testing
+10.1145/3489849.3489940,inproceedings,2021.0,Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology,Using Hand Tracking and Voice Commands to Physically Align Virtual Surfaces in AR for Handwriting and Sketching with HoloLens 2
+10.1145/3366424.3382088,inproceedings,2020.0,Companion Proceedings of the Web Conference 2020,Learning Topic Map from Large Scale Social Media Data
+10.1145/5401.5405,article,1986.0,ACM Trans. Inf. Syst.,The spatial metaphor for user interfaces: experimental tests of reference by location versus name
+,article,2013.0,J. Artif. Int. Res.,"Framing image description as a ranking task: data, models and evaluation metrics"
+10.1145/3675094.3678367,inproceedings,2024.0,Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing,"Alternative Perception, Broadening Sensing: From Passive to Active: Opening Conversations with Wearables"
+10.1145/3689091.3690086,inproceedings,2024.0,Proceedings of the 2nd International Workshop on Deep Multimodal Generation and Retrieval,Shotluck Holmes: A Family of Efficient Small-Scale Large Language Vision Models For Video Captioning and Summarization
+10.1145/3638530.3664124,inproceedings,2024.0,Proceedings of the Genetic and Evolutionary Computation Conference Companion,A Critical Analysis of Raven Roost Optimization
+10.1145/1753846.1754026,inproceedings,2010.0,CHI '10 Extended Abstracts on Human Factors in Computing Systems,GColl: enhancing trust in flexible group-to-group videoconferencing
+10.1145/3625008.3625019,inproceedings,2024.0,Proceedings of the 25th Symposium on Virtual and Augmented Reality,Immersive Data Analysis for Planning Military Operations: Design and Think-Aloud Study
+10.1145/3613904.3642410,inproceedings,2024.0,Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems,"Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling"
+10.1145/3597066.3597117,inproceedings,2023.0,Proceedings of the 2023 International Symposium on Symbolic and Algebraic Computation,Blendstrings: an environment for computing with smooth functions
+10.1145/2851581.2892373,inproceedings,2016.0,Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems,"Clocks, Bars and Balls: Design and Evaluation of Alternative GNomon Widgets for Children with Disabilities"
+10.1145/2512349.2517248,inproceedings,2013.0,Proceedings of the 2013 ACM International Conference on Interactive Tabletops and Surfaces,Music mixing surface
+10.1145/3555228.3555266,inproceedings,2022.0,Proceedings of the XXXVI Brazilian Symposium on Software Engineering,Towards a Process to Manage Usability Technical Debts
+10.1145/3637528.3672193,inproceedings,2024.0,Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,From Word-prediction to Complex Skills: Compositional Thinking and Metacognition in LLMs
+10.1145/3576915.3623181,inproceedings,2023.0,Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security,COMBINE: COMpilation and Backend-INdependent vEctorization for Multi-Party Computation
+10.1145/3544549.3585615,inproceedings,2023.0,Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems,Exploration of Bare-Hand Mid-Air Pointing Selection Techniques for Dense Virtual Reality Environments
+10.1145/3234944.3234970,inproceedings,2018.0,Proceedings of the 2018 ACM SIGIR International Conference on Theory of Information Retrieval,Quantum Language Model-based Query Expansion
+10.3115/976909.979672,inproceedings,1997.0,Proceedings of the 35th Annual Meeting of the Association for Computational Linguistics and Eighth Conference of the European Chapter of the Association for Computational Linguistics,Paradigmatic cascades: a linguistically sound model of pronunciation by analogy
+10.1145/1133265.1133356,inproceedings,2006.0,Proceedings of the Working Conference on Advanced Visual Interfaces,Euclidean representation of 3D electronic institutions: automatic generation
+10.1145/3587716.3587753,inproceedings,2023.0,Proceedings of the 2023 15th International Conference on Machine Learning and Computing,Hypernym Information and Sentiment Bias Probing in Distributed Data Representation
+10.1145/634067.634298,inproceedings,2001.0,CHI '01 Extended Abstracts on Human Factors in Computing Systems,User-generated analogies of the world wide web: implications for design
+10.1145/3360901.3364445,inproceedings,2019.0,Proceedings of the 10th International Conference on Knowledge Capture,Assessing the Lexico-Semantic Relational Knowledge Captured by Word and Concept Embeddings
+10.1145/337292.337509,inproceedings,2000.0,Proceedings of the 37th Annual Design Automation Conference,Operating system based software generation for systems-on-chip
+10.1145/3597503.3623349,inproceedings,2024.0,Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimation
+10.1145/3358961.3358966,inproceedings,2020.0,Proceedings of the IX Latin American Conference on Human Computer Interaction,TorBook: a tangible book for older adults
+10.1145/3510454.3517068,inproceedings,2022.0,Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Companion Proceedings,Topology of the documentation landscape
+10.1145/3461702.3462624,inproceedings,2021.0,"Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society",Persistent Anti-Muslim Bias in Large Language Models
+10.1145/3579473,article,2023.0,Proc. ACM Hum.-Comput. Interact.,ContextWing: Pair-wise Visual Comparison for Evolving Sequential Patterns of Contexts in Social Media Data Streams
+10.1145/3544548.3581466,inproceedings,2023.0,Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,NFTDisk: Visual Detection of Wash Trading in NFT Markets
+10.1109/TASLP.2024.3364610,article,2024.0,"IEEE/ACM Trans. Audio, Speech and Lang. Proc.",The MorPhEMe Machine: An Addressable Neural Memory for Learning Knowledge-Regularized Deep Contextualized Chinese Embedding
+10.1145/3630744.3658614,inproceedings,2024.0,Companion Publication of the 16th ACM Web Science Conference,Advancing Web Science through Foundation Model for Tabular Data
+10.1145/169059.169082,inproceedings,1993.0,Proceedings of the INTERACT '93 and CHI '93 Conference on Human Factors in Computing Systems,Reducing the variability of programmers' performance through explained examples
+10.1145/3470716.3470726,inproceedings,2021.0,Proceedings of the 6th International Conference on Information and Education Innovations,Research on the Inheritance of Music Education based on Information Network
+10.1145/3432927,article,2021.0,Proc. ACM Hum.-Comput. Interact.,Narrative Maps: An Algorithmic Approach to Represent and Extract Information Narratives
+10.1145/3508230.3508256,inproceedings,2022.0,Proceedings of the 2021 5th International Conference on Natural Language Processing and Information Retrieval,Natural Language Processing Applied on Large Scale Data Extraction from Scientific Papers in Fuel Cells
+10.1145/1076034.1076152,inproceedings,2005.0,Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,Evaluating semantic indexing techniques through cross-language fingerprinting
+10.1109/MSR.2019.00014,inproceedings,2019.0,Proceedings of the 16th International Conference on Mining Software Repositories,Import2vec learning embeddings for software libraries
+10.1145/3450741.3465261,inproceedings,2021.0,Proceedings of the 13th Conference on Creativity and Cognition,Framing Creative Work: Helping Novices Frame Better Problems through Interactive Scaffolding
+10.1145/3656415,article,2024.0,Proc. ACM Program. Lang.,Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis
+10.1145/3371158.3371179,inproceedings,2020.0,Proceedings of the 7th ACM IKDD CoDS and 25th COMAD,Adaptive GloVe and FastText Model for Hindi Word Embeddings
+,inproceedings,2001.0,Proceedings of the Conference on Visualization '01,Quantitative comparative evaluation of 2D vector field visualization methods
+10.1145/2399016.2399042,inproceedings,2012.0,Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design,"Dude, where's my car? in-situ evaluation of a tactile car finder"
+10.1145/989863.989910,inproceedings,2004.0,Proceedings of the Working Conference on Advanced Visual Interfaces,3D location-pointing as a navigation aid in Virtual Environments
+10.1145/3543758.3547559,inproceedings,2022.0,Proceedings of Mensch Und Computer 2022,”Do Metaphors Influence the Usability of Access Control?”: A Gamified Survey.
+10.1145/3631352,article,2023.0,ACM Trans. Inf. Syst.,rHDP: An Aspect Sharing-Enhanced Hierarchical Topic Model for Multi-Domain Corpus
+10.1145/1132736.1132758,inproceedings,2006.0,Proceedings of the 18th Conference on l'Interaction Homme-Machine,Glyph 2: une saisie de texte avec deux appuis de touche par caract\`{e}re - principes et comparaisons
+10.3115/997939.997942,inproceedings,1990.0,Proceedings of the 13th Conference on Computational Linguistics - Volume 2,Finding translation equivalents: an application of grammatical metaphor
+10.1145/354384.354455,inproceedings,2000.0,Proceedings of the Eighth ACM International Conference on Multimedia,Keyblock: an approach for content-based image retrieval
+10.1145/3722562,article,2025.0,ACM Trans. Internet Things,Human Immune System Inspired Security for Federated Learning-Empowered Internet of Things
+10.1145/3302425.3302494,inproceedings,2018.0,"Proceedings of the 2018 International Conference on Algorithms, Computing and Artificial Intelligence",Chinese Word Embeddings with Subwords
+10.1145/3397537.3398477,inproceedings,2020.0,"Companion Proceedings of the 4th International Conference on Art, Science, and Engineering of Programming",Efficient editing in a tree-oriented projectional editor
+10.1145/3064857.3064868,inproceedings,2017.0,Proceedings of the 2017 ACM Conference Companion Publication on Designing Interactive Systems,Setting the Stage with Metaphors for Interaction -- Researching Methodological Approaches for Interaction Design of Autonomous Vehicles
+,inproceedings,2024.0,Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems,Disentangling Policy from Offline Task Representation Learning via Adversarial Data Augmentation
+10.1145/2468356.2468487,inproceedings,2013.0,CHI '13 Extended Abstracts on Human Factors in Computing Systems,Towards a more flexible and creative music mixing interface
+,article,2024.0,J. Mach. Learn. Res.,Unsupervised tree boosting for learning probability distributions
+10.1145/3150165.3150172,inproceedings,2017.0,Proceedings of the 14th European Conference on Visual Media Production (CVMP 2017),Laplacian Pyramid of Conditional Variational Autoencoders
+10.1145/3503161.3547814,inproceedings,2022.0,Proceedings of the 30th ACM International Conference on Multimedia,Synthesizing Counterfactual Samples for Effective Image-Text Matching
+10.1145/3491102.3502004,inproceedings,2022.0,Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems,Jury Learning: Integrating Dissenting Voices into Machine Learning Models
+,inproceedings,2021.0,Proceedings of the Winter Simulation Conference,Generating hypotheses on prehistoric cultural transformation with agent-based evolutionary simulation
+10.1145/3546932.3547073,inproceedings,2022.0,Proceedings of the 26th ACM International Systems and Software Product Line Conference - Volume A,Customizable visualization of quality metrics for object-oriented variability implementations
+,article,2008.0,J. Artif. Int. Res.,The latent relation mapping engine: algorithm and experiments
+10.1145/2245276.2245467,inproceedings,2012.0,Proceedings of the 27th Annual ACM Symposium on Applied Computing,Towards the visualization of software systems as 3D forests: the CodeTrees environment
+10.1145/325737.325798,inproceedings,2000.0,Proceedings of the 5th International Conference on Intelligent User Interfaces,CACTUS: automated tutorial course generation for software applications
+10.1145/3024969.3024995,inproceedings,2017.0,"Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction","Window-Shaping: 3D Design Ideation by Creating on, Borrowing from, and Looking at the Physical World"
+10.1145/3306211.3320145,inproceedings,2019.0,ACM SIGGRAPH 2019 Art Gallery,Aeolian traces: listening to the resonances of wind and human migration
+10.1145/3236024.3236085,inproceedings,2018.0,Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,Code vectors: understanding programs through embedded abstracted symbolic traces
+10.1145/632716.632804,inproceedings,1999.0,CHI '99 Extended Abstracts on Human Factors in Computing Systems,"Visual literacy for interface designers: tips, tools, techniques and inspiration"
+10.1145/3328433.3328453,inproceedings,2019.0,"Companion Proceedings of the 3rd International Conference on the Art, Science, and Engineering of Programming",IDVE: an integrated development and verification environment for JavaScript
+10.1145/3618260.3649743,inproceedings,2024.0,Proceedings of the 56th Annual ACM Symposium on Theory of Computing,Learning the Coefficients: A Presentable Version of Border Complexity and Applications to Circuit Factoring
+10.1109/ASE56229.2023.00068,inproceedings,2024.0,Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering,Vision-Based Widget Mapping for Test Migration across Mobile Platforms: Are We There Yet?
+10.1145/3597503.3639128,inproceedings,2024.0,Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,Towards Finding Accounting Errors in Smart Contracts
+10.1145/2465958.2465965,inproceedings,2013.0,Proceedings of the 11th European Conference on Interactive TV and Video,Time shifting patterns in browsing and search behavior for catch-up TV on the web
+10.14778/3352063.3352104,article,2019.0,Proc. VLDB Endow.,AggChecker: a fact-checking system for text summaries of relational data sets
+10.1145/3139131.3139144,inproceedings,2017.0,Proceedings of the 23rd ACM Symposium on Virtual Reality Software and Technology,A study on improving performance in gesture training through visual guidance based on learners' errors
+10.1145/508791.508893,inproceedings,2002.0,Proceedings of the 2002 ACM Symposium on Applied Computing,"The ""look and feel"" of an ebook: considerations in interface design"
+10.1145/3414686.3427140,inproceedings,2021.0,SIGGRAPH Asia 2020 Art Gallery,Viewporter
+10.1145/3194718.3194720,inproceedings,2018.0,Proceedings of the 11th International Workshop on Search-Based Software Testing,Generating test input with deep reinforcement learning
+10.1145/320297.320322,inproceedings,1999.0,Proceedings of the 1999 ACM International Conference on Supporting Group Work,Use of Virtual Science Park resource rooms to support group work in a learning environment
+10.1109/ASE.2019.00057,inproceedings,2020.0,Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering,Mutation analysis for Coq
+10.1145/3430524.3440654,inproceedings,2021.0,"Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction",Flowcuits: Crafting Tangible and Interactive Electrical Components with Liquid Metal Circuits
+10.1145/3279778.3279797,inproceedings,2018.0,Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces,MlioLight: Projector-camera Based Multi-layered Image Overlay System for Multiple Flashlights Interaction
+10.1145/3356590.3356625,inproceedings,2019.0,Proceedings of the 14th International Audio Mostly Conference: A Journey in Sound,A Web Prototype to Teach Music and Computational Thinking Through Building Blocks
+10.1145/3446871.3469750,inproceedings,2021.0,Proceedings of the 17th ACM Conference on International Computing Education Research,When Wrong is Right: The Instructional Power of Multiple Conceptions
+10.1145/253495.253533,inproceedings,1985.0,Proceedings of the 8th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,The user's mental model of an information retrieval system
+10.1145/3412841.3441998,inproceedings,2021.0,Proceedings of the 36th Annual ACM Symposium on Applied Computing,"""I personally relate it to the traffic light"": a user study on security &amp; privacy indicators in a secure email system committed to privacy by default"
+10.1145/3414080.3414086,inproceedings,2020.0,Proceedings of the 22nd International Symposium on Principles and Practice of Declarative Programming,A Computational Understanding of Classical&nbsp;(Co)Recursion
+10.1145/3506694,article,2022.0,ACM Trans. Graph.,Subdivision-based Mesh Convolution Networks
+10.1145/3456529.3456534,inproceedings,2021.0,Proceedings of the 2021 5th International Conference on Compute and Data Analysis,The Applications of Zero-failure data’ dependability Analyzing to Estimating Mine Sweeping
+10.1145/3409289,article,2020.0,ACM Trans. Priv. Secur.,Proactively Identifying Emerging Hacker Threats from the Dark Web: A Diachronic Graph Embedding Framework (D-GEF)
+10.1145/3002151.3002159,inproceedings,2016.0,SIGGRAPH ASIA 2016 Symposium on Visualization,VideoForest: interactive visual summarization of video streams based on danmu data
+10.1145/1008992.1008994,inproceedings,2004.0,Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,Chemoinformatics: an application domain for information retrieval techniques
+10.1145/3377816.3381734,inproceedings,2020.0,Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: New Ideas and Emerging Results,Manifold for machine learning assurance
+,article,2023.0,J. Mach. Learn. Res.,RankSEG: a consistent ranking-based framework for segmentation
+10.1145/2964284.2973831,inproceedings,2016.0,Proceedings of the 24th ACM International Conference on Multimedia,Image2Text: A Multimodal Image Captioner
+10.1145/3297067.3297082,inproceedings,2018.0,Proceedings of the 2018 International Conference on Signal Processing and Machine Learning,Implementation of Irregular Meshes for the Sparse Representation of Multidimensional Signals
+10.1145/1842993.1843106,inproceedings,2010.0,Proceedings of the International Conference on Advanced Visual Interfaces,Seeing more than the graph: evaluation of multivariate graph visualization methods
+10.1145/2542242.2542243,inproceedings,2013.0,Proceedings of the 14th Annual ACM SIGCHI_NZ Conference on Computer-Human Interaction,Tag Clouds for Software and Information Visualisation
+10.1145/2807442.2807471,inproceedings,2015.0,Proceedings of the 28th Annual ACM Symposium on User Interface Software    amp; Technology,Tiltcasting: 3D Interaction on Large Displays using a Mobile Device
+10.1145/3027063.3053075,inproceedings,2017.0,Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems,BikeGesture: User Elicitation and Performance of Micro Hand Gesture as Input for Cycling
+10.1145/2334801.2334805,article,2012.0,ACM Transactions on Asian Language Information Processing,Cross-Language Latent Relational Search between Japanese and English Languages Using a Web Corpus
+10.1145/3502718.3524767,inproceedings,2022.0,Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 1,Cryptography in Grade 10: Core Ideas with Snap! and Unplugged
+10.1145/3325480.3329178,inproceedings,2019.0,Proceedings of the 2019 Conference on Creativity and Cognition,Crowd in C
+10.1145/3323716.3323735,inproceedings,2019.0,"Proceedings of the 8th International Conference on Informatics, Environment, Energy and Applications",A machine-learning approach to speed-up simulation towards the design of optimum operating profiles of power plants
+10.1145/2912845.2912866,inproceedings,2016.0,"Proceedings of the 6th International Conference on Web Intelligence, Mining and Semantics",Discovering Relations to Augment a Web-scale Knowledge Base Constructed from the Web
+10.1145/3458709.3458982,inproceedings,2021.0,Proceedings of the Augmented Humans International Conference 2021,Deep Learning–Based Scene Simplification for Bionic Vision
+10.1145/3472300,article,2022.0,ACM Trans. Intell. Syst. Technol.,Predicting Citywide Crowd Dynamics at Big Events: A Deep Learning System
+10.1145/3670865.3673623,inproceedings,2024.0,Proceedings of the 25th ACM Conference on Economics and Computation,Supply and demand function competition in input-output networks
+10.1145/3359997.3365744,inproceedings,2019.0,Proceedings of the 17th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and Its Applications in Industry,Negative Space: Workspace Awareness in 3D Face-to-Face Remote Collaboration
+10.1145/3471937,article,2021.0,ACM Trans. Cyber-Phys. Syst.,IoTranx: Transactions for Safer Smart Spaces
+10.1145/3318464.3389703,inproceedings,2020.0,Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data,LISA: A Learned Index Structure for Spatial Data
+10.1145/3130800.3130842,article,2017.0,ACM Trans. Graph.,Transferring image-based edits for multi-channel compositing
+10.1145/1502650.1502715,inproceedings,2009.0,Proceedings of the 14th International Conference on Intelligent User Interfaces,Pulling strings from a tangle: visualizing a personal music listening history
+10.1145/1452392.1452454,inproceedings,2008.0,Proceedings of the 10th International Conference on Multimodal Interfaces,Embodied conversational agents for voice-biometric interfaces
+10.1145/3240167.3240245,inproceedings,2018.0,Proceedings of the 10th Nordic Conference on Human-Computer Interaction,Slots-story: facilitate inter-generational life story sharing and preservation of the elderly
+10.1145/3301275.3302291,inproceedings,2019.0,Proceedings of the 24th International Conference on Intelligent User Interfaces,Flux capacitors for JavaScript deloreans: approximate caching for physics-based data interaction
+10.1145/3041021.3055132,inproceedings,2017.0,Proceedings of the 26th International Conference on World Wide Web Companion,Is Tofu the Cheese of Asia? Searching for Corresponding Objects across Geographical Areas
+10.1145/3491101.3519712,inproceedings,2022.0,Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems,RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media
+10.1145/800174.809795,inproceedings,1982.0,Proceedings of the ACM '82 Conference,An information retrieval perspective on fuzzy database systems (ACM 82 Panel Session)
+10.1109/TNET.2019.2923395,article,2019.0,IEEE/ACM Trans. Netw.,Beam Discovery Using Linear Block Codes for Millimeter Wave Communication Networks
+10.1145/1499310.1499368,inproceedings,1984.0,"Proceedings of the July 9-12, 1984, National Computer Conference and Exposition",Fifth-generation computing as the next stage of a new medium
+10.1145/3294109.3300979,inproceedings,2019.0,"Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction",Slots-Memento: Facilitating Intergenerational Memento Storytelling and Preservation for the Elderly
+10.1109/TCBB.2017.2740381,article,2018.0,IEEE/ACM Trans. Comput. Biol. Bioinformatics,Multiple Network Alignment via MultiMAGNA++
+10.1145/2600428.2609610,inproceedings,2014.0,Proceedings of the 37th International ACM SIGIR Conference on Research    amp; Development in Information Retrieval,Latent semantic sparse hashing for cross-modal similarity search
+10.1145/3143434.3143464,inproceedings,2017.0,Proceedings of the 27th International Workshop on Software Measurement and 12th International Conference on Software Process and Product Measurement,Effort estimation methods for ERP projects based on function points: a case study
+10.1145/3461702.3462557,inproceedings,2021.0,"Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society",Measuring Model Biases in the Absence of Ground Truth
+,inproceedings,2021.0,Proceedings of the 26th Conference on Pattern Languages of Programs,"Elephants, patterns, and heuristics"
+10.1145/2567948.2578839,inproceedings,2014.0,Proceedings of the 23rd International Conference on World Wide Web,Working out the plot: the role of stories in social machines
+10.1145/3564246.3585184,inproceedings,2023.0,Proceedings of the 55th Annual ACM Symposium on Theory of Computing,Algorithms Approaching the Threshold for Semi-random Planted Clique
+10.1162/coli.2006.32.3.379,article,2006.0,Comput. Linguist.,Similarity of Semantic Relations
+,inproceedings,2018.0,Proceedings of the 2018 Winter Simulation Conference,"Data farming: better data, not just big data"
+10.1145/3282866.3282872,inproceedings,2018.0,Proceedings of the 2nd ACM SIGSPATIAL Workshop on Analytics for Local Events and News,Local Event Forecasting and Synthesis Using Unpaired Deep Graph Translations
+10.1145/2675133.2675214,inproceedings,2015.0,Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work    amp; Social Computing,Flock: Hybrid Crowd-Machine Learning Classifiers
+10.1145/3484481,article,2022.0,J. Comput. Cult. Herit.,"Vested Authorities, Emergent Brokers and User Archivists: Power and Legitimacy in Information Provision"
+10.1145/800184.810472,inproceedings,1971.0,Proceedings of the 1971 26th Annual Conference,"Referential communication in AUTONOTE, a personal information retrieval system"
+10.1145/3534678.3539044,inproceedings,2022.0,Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation
+10.1145/3486622.3493919,inproceedings,2022.0,IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology,Local Maxima in ADCOPs via Side Payments
+10.1145/3290688.3290693,inproceedings,2019.0,Proceedings of the Australasian Computer Science Week Multiconference,A Survey of Anonymity of Cryptocurrencies
+10.1145/3485447.3511924,inproceedings,2022.0,Proceedings of the ACM Web Conference 2022,Creating Signature-Based Views for Description Logic Ontologies with Transitivity and Qualified Number Restrictions
+10.3115/991813.991864,inproceedings,1982.0,Proceedings of the 9th Conference on Computational Linguistics - Volume 1,Procedural meaning representation by connotative dependency structures: an empirical approach to word semantics for analogical inferencing
+10.1145/3450614.3461682,inproceedings,2021.0,"Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization",The ‘Unreasonable’ Effectiveness of Graphical User Interfaces for Recommender Systems
+10.1145/3338852.3339852,inproceedings,2019.0,Proceedings of the 32nd Symposium on Integrated Circuits and Systems Design,Energy efficient fJ/spike LTS e-Neuron using 55-nm node
+10.1145/2039370.2039404,inproceedings,2011.0,Proceedings of the Seventh IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis,Capacity metric for chip heterogeneous multiprocessors
+10.1145/2598394.2609843,inproceedings,2014.0,Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation,Template method hyper-heuristics
+10.1145/2911996.2912045,inproceedings,2016.0,Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval,Learning Music Embedding with Metadata for Context Aware Recommendation
+10.1145/3534598,article,2022.0,Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.,Reliable Digital Forensics in the Air: Exploring an RF-based Drone Identification System
+10.1145/3321707.3321752,inproceedings,2019.0,Proceedings of the Genetic and Evolutionary Computation Conference,Novelty search: a theoretical perspective
+10.1145/3364641.3364647,inproceedings,2019.0,Proceedings of the XVIII Brazilian Symposium on Software Quality,Effects of Visualizing Technical Debts on a Software Maintenance Project
+10.1145/3423334.3431450,inproceedings,2020.0,"Proceedings of the 4th ACM SIGSPATIAL Workshop on Location-Based Recommendations, Geosocial Networks, and Geoadvertising",From PIace2Vec to Multi-Scale Built-Environment Representation: A General-Purpose Distributional Embedding for Urban Data Analysis
+10.1145/2493102.2493114,inproceedings,2013.0,Proceedings of the 6th International Symposium on Visual Information Communication and Interaction,A novel map-based visualization method based on liquid modelling
+10.1145/3239060.3239069,inproceedings,2018.0,Proceedings of the 10th International Conference on Automotive User Interfaces and Interactive Vehicular Applications,Establishing the Role of a Virtual Lead Vehicle as a Novel Augmented Reality Navigational Aid
+10.1145/2834965.2834970,inproceedings,2015.0,Proceedings of the 14th International Workshop on Adaptive and Reflective Middleware,Holons: towards a systematic approach to composing systems of systems
+10.1145/2537734.2537735,inproceedings,2013.0,Proceedings of the 18th Australasian Document Computing Symposium,Economic models of search
+10.1145/3632915,article,2024.0,Proc. ACM Program. Lang.,Predictive Monitoring against Pattern Regular Languages
+10.1145/800142.805345,inproceedings,1981.0,Proceedings of the International Conference on APL,Parsing and evaluation of APL with operators
+10.1145/3428226,article,2020.0,Proc. ACM Program. Lang.,A sparse iteration space transformation framework for sparse tensor algebra
+10.1145/2797137,article,2015.0,ACM Trans. Inf. Syst.,KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge
+10.1145/2858036.2858168,inproceedings,2016.0,Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems,Integrating the Smart Home into the Digital Calendar
+10.1145/3342558.3345395,inproceedings,2019.0,Proceedings of the ACM Symposium on Document Engineering 2019,Augmenting Music Sheets with Harmonic Fingerprints
+10.1145/3183440.3195043,inproceedings,2018.0,Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings,Multimorphic testing
+10.1145/2063576.2063940,inproceedings,2011.0,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,Structured collaborative filtering
+10.1145/3385032.3385038,inproceedings,2020.0,Proceedings of the 13th Innovations in Software Engineering Conference (Formerly Known as India Software Engineering Conference),Control-Flow based Anomaly Detection in the Bug-Fixing Process of Open-Source Projects
+10.1145/2492189.2492206,article,2012.0,SIGIR Forum,Document ranking with quantum probabilities
+10.1145/3136014.3136019,inproceedings,2017.0,Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering,Debugging with domain-specific events via macros
+10.1145/3322905.3322928,inproceedings,2019.0,Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage,"A New Strategy for Arabic OCR: Archigraphemes, Letter Blocks, Script Grammar, and shape synthesis"
+10.1145/3430506,article,2021.0,ACM Trans. Internet Technol.,Privacy Care: A Tangible Interaction Framework for Privacy Management
+10.1145/3134383.3134409,inproceedings,2017.0,Proceedings of the 7th International Conference on Information Communication and Management,A Simulation Study on the Impact of Member Turnover on Team Knowledge Evolution
+10.1145/3024969.3024986,inproceedings,2017.0,"Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction",Texture Metaphors and Tangible Interaction: No Smooth Relationship?
+10.1145/3231622.3231626,inproceedings,2018.0,Proceedings of the 11th International Symposium on Visual Information Communication and Interaction,PedaViz: Visualising Hour-Level Pedestrian Activity
+10.1145/3184407.3184413,inproceedings,2018.0,Proceedings of the 2018 ACM/SPEC International Conference on Performance Engineering,To Adapt or Not to Adapt? Technical Debt and Learning Driven Self-Adaptation for Managing Runtime Performance
+10.1145/3014812.3014821,inproceedings,2017.0,Proceedings of the Australasian Computer Science Week Multiconference,Evaluating WaveWatch: an ambient display of web traffic
+10.1145/2976767.2976806,inproceedings,2016.0,Proceedings of the ACM/IEEE 19th International Conference on Model Driven Engineering Languages and Systems,Technical debt in MDE: a case study on GMF/EMF-based projects
+10.1145/3644479.3644482,inproceedings,2024.0,"Proceedings of the 2023 6th International Conference on E-Business, Information Management and Computer Science",Narrative Roads to Rebuild China's Global Image -Sentiment Analysis of Twitter Activities after China's Covid-19 Aid Activities in Italy
+10.1145/3416914,article,2021.0,ACM/IMS Trans. Data Sci.,Transfer Urban Human Mobility via POI Embedding over Multiple Cities
+10.1145/3098279.3098556,inproceedings,2017.0,Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services,Finger tracking: facilitating non-commercial content production for mobile e-reading applications
+10.1145/122344.1063893,article,1991.0,SIGART Bull.,"Book review: Natural Language Generation in Artificial Intelligence and Computational Linguistics Edited by Cecile L. Paris, William R. Swartout, and William C. Mann (Kluwer Academic, Dordrecht,1990)"
+10.1145/3369810,article,2020.0,Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.,Data-Driven Battery-Lifetime-Aware Scheduling for Electric Bus Fleets
+10.1145/2406367.2406389,inproceedings,2012.0,Proceedings of the 11th International Conference on Mobile and Ubiquitous Multimedia,HiStory: a hierarchical storyboard interface design for video browsing on mobile devices
+10.1145/512927.512942,inproceedings,1973.0,Proceedings of the 1st Annual ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages,Actor induction and meta-evaluation
+10.1145/2459236.2459274,inproceedings,2013.0,Proceedings of the 4th Augmented Human International Conference,A system for visualizing human behavior based on car metaphors
+10.1145/2851613.2851701,inproceedings,2016.0,Proceedings of the 31st Annual ACM Symposium on Applied Computing,Design and usability of a braille-based mobile audiogame environment
+10.1145/3077136.3080729,inproceedings,2017.0,Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval,Gauging the Quality of Relevance Assessments using Inter-Rater Agreement
+10.1145/2504459.2504506,inproceedings,2013.0,ACM SIGGRAPH 2013 Talks,Sketch-based pipeline for mass customization
+10.1145/3459104.3459189,inproceedings,2021.0,"2021 International Symposium on Electrical, Electronics and Information Engineering",A Comparison between Virtual Reality and Augmented Reality on Upper-limb Prosthesis Control
+10.1145/3183347,article,2018.0,ACM Trans. Intell. Syst. Technol.,D-Map+: Interactive Visual Analysis and Exploration of Ego-centric and Event-centric Information Diffusion Patterns in Social Media
+10.1145/3292500.3330982,inproceedings,2019.0,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery    amp; Data Mining,Graph Convolutional Networks with EigenPooling
+10.1145/2339530.2339643,inproceedings,2012.0,Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Playlist prediction via metric embedding
+10.1145/1935701.1935737,inproceedings,2010.0,"Proceedings of the Fifth International Conference on Tangible, Embedded, and Embodied Interaction",A mobile system for industrial maintenance support based on embodied interaction
+10.1145/2505515.2505671,inproceedings,2013.0,Proceedings of the 22nd ACM International Conference on Information    amp; Knowledge Management,Graph-of-word and TW-IDF: new approach to ad hoc IR
+10.1145/2661704.2661710,inproceedings,2014.0,Proceedings of the 1st International Workshop on Emerging Multimedia Applications and Services for Smart Cities,An Intuitive Touch Screen Interface for Car Remote Control
+10.1145/2874239.2874274,article,2016.0,SIGCAS Comput. Soc.,False friends and false coinage: a tool for navigating the ethics of sociable robots
+10.1145/2818048.2819988,inproceedings,2016.0,Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work    amp; Social Computing,Considering Time in Designing Large-Scale Systems for Scientific Computing
+10.1145/2671470.2671473,inproceedings,2014.0,"Proceedings of the 2014 Ergonomie et Informatique Avancée Conference - Design, Ergonomie et IHM: Quelle Articulation Pour La Co-Conception de l'interaction",The role of the facilitator during digital creative sessions
+10.1145/3373376.3378461,inproceedings,2020.0,Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems,Challenging Sequential Bitstream Processing via Principled Bitwise Speculation
+10.1145/2933575.2934537,inproceedings,2016.0,Proceedings of the 31st Annual ACM/IEEE Symposium on Logic in Computer Science,Stochastic mechanics of graph rewriting
+10.1145/2984511.2984585,inproceedings,2016.0,Proceedings of the 29th Annual Symposium on User Interface Software and Technology,Energy-Brushes: Interactive Tools for Illustrating Stylized Elemental Dynamics
+10.1145/2254556.2254564,inproceedings,2012.0,Proceedings of the International Working Conference on Advanced Visual Interfaces,UISKEI: a sketch-based prototyping tool for defining and evaluating user interface behavior
+10.1145/2676726.2676981,inproceedings,2015.0,Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,DReX: A Declarative Language for Efficiently Evaluating Regular String Transformations
+10.1145/2702123.2702202,inproceedings,2015.0,Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems,"Easy to Draw, but Hard to Trace? On the Observability of Grid-based (Un)lock Patterns"
+10.1145/2851581.2892361,inproceedings,2016.0,Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems,"Motion, Emotion, and Form: Exploring Affective Dimensions of Shape"
+10.1145/3219811,article,2018.0,ACM Trans. Sen. Netw.,Mechanisms and Policies for Controlling Distributed Solar Capacity
+10.1145/3292500.3330654,inproceedings,2019.0,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery    amp; Data Mining,DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events
+10.1145/2037296.2037331,inproceedings,2011.0,Proceedings of the 9th ACM SIGCHI Italian Chapter International Conference on Computer-Human Interaction: Facing Complexity,Searching digital audio broadcasting radio stations: usability and safety issues for in-vehicle devices
+10.1145/3086512.3086533,inproceedings,2017.0,Proceedings of the 16th Edition of the International Conference on Articial Intelligence and Law,"Formalizing arguments, rules and cases"
+10.1145/3077136.3080757,inproceedings,2017.0,Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval,Large-Scale Goodness Polarity Lexicons for Community Question Answering
+10.1145/1328408.1328416,inproceedings,2008.0,Proceedings of the 2008 ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation,Synthesizable high level hardware descriptions: using statically typed two-level languages to guarantee verilog synthesizability
+10.1145/3319535.3354248,inproceedings,2019.0,Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security,The Catcher in the Field: A Fieldprint based Spoofing Detection for Text-Independent Speaker Verification
+10.1145/1526709.1526797,inproceedings,2009.0,Proceedings of the 18th International Conference on World Wide Web,Measuring the similarity between implicit semantic relations from the web
+10.1145/2044354.2044368,inproceedings,2011.0,Proceedings of the 23rd Conference on l'Interaction Homme-Machine,Repr\'{e}sentation visuelle interactive de l'importance subjective de crit\`{e}res de s\'{e}lection de donn\'{e}es
+10.1145/3139958.3139995,inproceedings,2017.0,Proceedings of the 25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,CityLines: Hybrid Hub-and-Spoke Urban Transit System
+,inproceedings,2016.0,Proceedings of the 2016 International Conference on Autonomous Agents    amp; Multiagent Systems,Distributed Search for Pure Nash Equilibria in Graphical Games: (Extended Abstract)
+10.1145/2724723,article,2015.0,J. Comput. Cult. Herit.,Integrating a Location-Based Mobile Game in the Museum Visit: Evaluating Visitors’ Behaviour and Learning
+,inproceedings,2015.0,Proceedings of the 2015 Winter Simulation Conference,"Simulation experiments: better data, not just big data"
+,inproceedings,2008.0,Proceedings of the 22nd International Conference on Computational Linguistics - Volume 1,A fluid knowledge representation for understanding and generating creative metaphors
+10.1145/165299.165307,article,1993.0,SIGCOMM Comput. Commun. Rev.,Multicast channels for collaborative applications: design and performance evaluation
+10.1145/2839462.2856529,inproceedings,2016.0,"Proceedings of the TEI '16: Tenth International Conference on Tangible, Embedded, and Embodied Interaction",Functional Interactive Tatting: Bringing Together a Traditional Handicraft and Electronics
+10.1145/2517300.2528524,inproceedings,2013.0,Proceedings of the 3rd International Workshop on Trustworthy Embedded Devices,Physical unclonable functions: devices for cryptostorage
+10.1145/3071178.3071344,inproceedings,2017.0,Proceedings of the Genetic and Evolutionary Computation Conference,Discovery of search objectives in continuous domains
+10.1145/3106237.3106293,inproceedings,2017.0,Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,Understanding the impact of support for iteration on code search
+,inproceedings,2010.0,Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity,Engineering linguistic creativity: bird flight and jet planes
+10.1145/2857491.2857527,inproceedings,2016.0,Proceedings of the Ninth Biennial ACM Symposium on Eye Tracking Research    amp; Applications,A rotary dial for gaze-based PIN entry
+10.1145/2740908.2743042,inproceedings,2015.0,Proceedings of the 24th International Conference on World Wide Web,An Approach to Support Data Integrity for Web Services Using Semantic RESTful Interfaces
+10.1145/2839462.2839468,inproceedings,2016.0,"Proceedings of the TEI '16: Tenth International Conference on Tangible, Embedded, and Embodied Interaction",Tangible Viewports: Getting Out of Flatland in Desktop Environments
+,article,2010.0,J. Artif. Int. Res.,Text relatedness based on a word thesaurus
+10.1145/800116.803746,inproceedings,1975.0,Proceedings of the Seventh Annual ACM Symposium on Theory of Computing,"Complexity measures and hierarchies for the evaluation of integers, polynomials, and n-linear forms"
+10.1145/2652574.2653415,inproceedings,2012.0,Proceedings of the 2012 Conference on Ergonomie et Interaction Homme-Machine,IHM perl\'{e}es pour le Cloud Computing: premiers retours d'exp\'{e}rience en informatique m\'{e}dicale
+10.1145/2009916.2010109,inproceedings,2011.0,Proceedings of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval,Time-based query performance predictors
+10.1145/2499393.2499400,inproceedings,2013.0,Proceedings of the 9th International Conference on Predictive Models in Software Engineering,Building a second opinion: learning cross-company data
+10.1145/3159450.3159598,inproceedings,2018.0,Proceedings of the 49th ACM Technical Symposium on Computer Science Education,Coding or Hacking? Exploring Inaccurate Views on Computing and Computer Scientists among K-6 Learners in Chile
+10.1145/3372177.3373300,inproceedings,2020.0,Proceedings of the 2019 International SPBPU Scientific Conference on Innovations in Digital Economy,Impact of the Digital Economy on Investment Projects
+10.1145/3324916,article,2019.0,ACM Trans. Softw. Eng. Methodol.,Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability
+,inproceedings,2014.0,Proceedings of the 2014 International Conference on Autonomous Agents and Multi-Agent Systems,Engineering multigroup agents for complex cooperative systems
+10.1145/1389095.1389111,inproceedings,2008.0,Proceedings of the 10th Annual Conference on Genetic and Evolutionary Computation,Enhanced generalized ant programming (EGAP)
+10.1145/1835449.1835480,inproceedings,2010.0,Proceedings of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval,Optimal meta search results clustering
+,inproceedings,2014.0,Proceedings of the 2014 Winter Simulation Conference,"Simulation experiments: better data, not just big data"
+10.1145/2791405.2791532,inproceedings,2015.0,Proceedings of the Third International Symposium on Women in Computing and Informatics,Comparative Study of Visual Attention Models with Human Eye Gaze in Remote Sensing Images
+10.1145/3210240.3210322,inproceedings,2018.0,"Proceedings of the 16th Annual International Conference on Mobile Systems, Applications, and Services",TYTH-Typing On Your Teeth: Tongue-Teeth Localization for Human-Computer Interface
+10.1145/3057857,article,2017.0,ACM Trans. Comput.-Hum. Interact.,Visual Simple Transformations: Empowering End-Users to Wire Internet of Things Objects
+10.1145/2702123.2702428,inproceedings,2015.0,Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems,Survival Analysis: Objective assessment of Wait Time in HCI
+,inproceedings,2013.0,Proceedings of the 4th International Workshop on Managing Technical Debt,Managing technical debt: an industrial case study
+10.1145/1690388.1690398,inproceedings,2009.0,Proceedings of the International Conference on Advances in Computer Entertainment Technology,An intelligent agent with affect sensing from metaphorical language and speech
+10.1145/3063386.3063771,inproceedings,2017.0,Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering,Array of things: a scientific research instrument in the public way: platform design and early lessons learned
+10.1145/3034786.3034787,inproceedings,2017.0,Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems,"Circuit Treewidth, Sentential Decision, and Query Compilation"
+10.1145/3137133.3137147,inproceedings,2017.0,Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments,Enforcing fair grid energy access for controllable distributed solar capacity
+10.1145/192757.192786,inproceedings,1994.0,Proceedings of the 1994 ACM European Conference on Hypermedia Technology,Accessing hyperdocuments through interactive dynamic maps
+10.1145/2633948.2633953,inproceedings,2014.0,Proceedings of SLIP (System Level Interconnect Prediction) on System Level Interconnect Prediction Workshop,Range-based Dynamic Routing of Hierarchical On Chip Network Traffic
+10.1145/2513383.2513433,inproceedings,2013.0,Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility,A haptic ATM interface to assist visually impaired users
+10.1145/2254556.2254691,inproceedings,2012.0,Proceedings of the International Working Conference on Advanced Visual Interfaces,Semantic road networks for recommender systems
+,inproceedings,2017.0,Proceedings of the 32nd Annual ACM/IEEE Symposium on Logic in Computer Science,The homomorphism problem for regular graph patterns
+10.1145/2566486.2567991,inproceedings,2014.0,Proceedings of the 23rd International Conference on World Wide Web,Personalized collaborative clustering
+,inproceedings,2011.0,Proceedings of the Conference on Empirical Methods in Natural Language Processing,Literal and metaphorical sense identification through concrete and abstract context
+10.1145/3152494.3152503,inproceedings,2018.0,Proceedings of the ACM India Joint International Conference on Data Science and Management of Data,Product discovery from E-commerce listings via deep text parsing
+10.1145/2512349.2512802,inproceedings,2013.0,Proceedings of the 2013 ACM International Conference on Interactive Tabletops and Surfaces,Pen and touch gestural environment for document editing on interactive tabletops
+,article,2015.0,J. Mach. Learn. Res.,Batch learning from logged bandit feedback through counterfactual risk minimization
+10.1145/2677758.2677769,inproceedings,2014.0,Proceedings of the 2014 Conference on Interactive Entertainment,Generating Funny Dialogue between Robots based on Japanese Traditional Comedy Entertainment
+10.1145/1164820.1164847,inproceedings,2006.0,Proceedings of the 1st International Conference on Information Interaction in Context,Contextual relevance feedback
+10.1145/2636240.2636868,inproceedings,2014.0,Proceedings of the 7th International Symposium on Visual Information Communication and Interaction,Using Your Fingers to Think: Interactive Exploration of Subjective Constraints
+10.1145/2462932.2462950,inproceedings,2012.0,Proceedings of the Eighth Annual International Symposium on Wikis and Open Collaboration,Towards content-driven reputation for collaborative code repositories
+10.1145/2557642.2579368,inproceedings,2014.0,Proceedings of the 5th ACM Multimedia Systems Conference,Augmented video viewing: transforming video consumption into an active experience
+10.1145/2701973.2701976,inproceedings,2015.0,Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts,Robot Trustworthiness: Guidelines for Simulated Emotion
+10.1145/2382936.2383058,inproceedings,2012.0,"Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine",A system for acquiring and management of ECG signals by using mobile devices: a support for first intervention in heart attacks
+10.1145/2623330.2623655,inproceedings,2014.0,Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Core decomposition of uncertain graphs
+10.1145/3131151.3131164,inproceedings,2017.0,Proceedings of the XXXI Brazilian Symposium on Software Engineering,Understanding Technical Debt at the Code Level from the Perspective of Software Developers
+10.1145/3017680.3022430,inproceedings,2017.0,Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education,Hopper's Fables: A Mathematical Storytelling Adventure (Abstract Only)
+10.1145/2661829.2662038,inproceedings,2014.0,Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management,RC-NET: A General Framework for Incorporating Knowledge into Word Representations
+,inproceedings,2009.0,Proceedings of the 23rd British HCI Group Annual Conference on People and Computers: Celebrating People and Technology,Under my pillow: designing security for children's special things
+10.1109/TASLP.2015.2497248,article,2016.0,"IEEE/ACM Trans. Audio, Speech and Lang. Proc.",Speaker and channel factors in text-dependent speaker recognition
+10.1145/2970815,article,2016.0,ACM Trans. Model. Perform. Eval. Comput. Syst.,On Fair Attribution of Costs Under Peak-Based Pricing to Cloud Tenants
+,inproceedings,2010.0,Proceedings of the Winter Simulation Conference,Performance measures for ranking and selection procedures
+,inproceedings,2012.0,Proceedings of the International Symposium on Sketch-Based Interfaces and Modeling,Geological storytelling: graphically exploring and communicating geological sketches
+10.1145/1450579.1450587,inproceedings,2008.0,Proceedings of the 2008 ACM Symposium on Virtual Reality Software and Technology,ACTIF: an interactor centric interaction framework
+10.1145/2694805.2694807,inproceedings,2015.0,Proceedings of the Second Workshop on Cryptography and Security in Computing Systems,A new Definition and Classification of Physical Unclonable Functions
+10.1145/2494091.2500248,inproceedings,2013.0,Proceedings of the 2013 ACM Conference on Pervasive and Ubiquitous Computing Adjunct Publication,Sharing bubbles: reflections on offline multi-surface scenarios
+10.1145/612201.612220,inproceedings,1959.0,Preprints of Papers Presented at the 14th National Meeting of the Association for Computing Machinery,A machine language for documentation and information retrieval
+10.1145/2600428.2609556,inproceedings,2014.0,Proceedings of the 37th International ACM SIGIR Conference on Research    amp; Development in Information Retrieval,An adaptive teleportation random walk model for learning social tag relevance
+10.1145/2071423.2071425,inproceedings,2011.0,Proceedings of the 8th International Conference on Advances in Computer Entertainment Technology,An imaginary friend that connects with the user's emotions
+,inproceedings,2006.0,Proceedings of the 20th International Conference on Parallel and Distributed Processing,Applying single processor algorithms to schedule tasks on reconfigurable devices respecting reconfiguration times
+10.1145/1178823.1178895,inproceedings,2006.0,Proceedings of the 2006 ACM SIGCHI International Conference on Advances in Computer Entertainment Technology,NeGAS: logo based authoring environment for 3D computer animation
+10.1145/1891903.1891936,inproceedings,2010.0,International Conference on Multimodal Interfaces and the Workshop on Machine Learning for Multimodal Interaction,PhotoMagnets: supporting flexible browsing and searching in photo collections
+10.1007/978-3-642-25489-5_23,inproceedings,2011.0,Proceedings of the 4th International Conference on Intelligent Robotics and Applications - Volume Part II,Motion control strategies for humanoids based on ergonomics
+10.1145/1178677.1178714,inproceedings,2006.0,Proceedings of the 8th ACM International Workshop on Multimedia Information Retrieval,Scalable search-based image annotation of personal images
+10.1145/1570433.1570459,inproceedings,2009.0,Proceedings of the 1st ACM SIGCHI Symposium on Engineering Interactive Computing Systems,FRAP: a framework for pervasive games
+10.1145/3132847.3132918,inproceedings,2017.0,Proceedings of the 2017 ACM on Conference on Information and Knowledge Management,Learning Node Embeddings in Interaction Graphs
+10.1145/1326554.1326555,article,2008.0,J. ACM,Towards 3-query locally decodable codes of subexponential length
+10.1145/1148550.1148552,inproceedings,2005.0,Proceedings of the 17th Conference on l'Interaction Homme-Machine,"Saisie de donn\'{e}es pour interfaces r\'{e}duites avec Glyph: principes, niveaux de saisie et \'{e}valuations th\'{e}oriques"
+10.1145/3292500.3330753,inproceedings,2019.0,Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery    amp; Data Mining,Understanding Consumer Journey using Attention based Recurrent Neural Networks
+10.1145/2944165.2944168,inproceedings,2016.0,Proceedings of the 2nd Africa and Middle East Conference on Software Engineering,Self-management of Distributed Computing Using Hybrid-Computing Elements
+10.1145/2927929.2927933,inproceedings,2016.0,Proceedings of the 2016 Virtual Reality International Conference,ANSIBLE: social connectedness through a virtual world in an isolated Mars simulation mission
+,inproceedings,2013.0,Proceedings of the 5th International Workshop on Software Engineering in Health Care,Software engineering in health care: is it really different? and how to gain impact
+10.1145/3143434.3143435,inproceedings,2017.0,Proceedings of the 27th International Workshop on Software Measurement and 12th International Conference on Software Process and Product Measurement,3-D visualization of dynamic runtime structures
+10.1145/323706.323791,inproceedings,1999.0,Proceedings of the 7th International Conference on Artificial Intelligence and Law,Intelligent jurisprudence research: a new concept
+10.1145/2448196.2448221,inproceedings,2013.0,Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,Texture brush: an interactive surface texturing interface
+10.1145/1639714.1639802,inproceedings,2009.0,Proceedings of the Third ACM Conference on Recommender Systems,Situation-aware trust management
+,inproceedings,2006.0,Proceedings of the Eighth International Workshop on Tree Adjoining Grammar and Related Formalisms,The weak generative capacity of linear tree-adjoining grammars
+10.1145/2686612.2686613,inproceedings,2014.0,Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: The Future of Design,Aesthetic resources for technology-mediated bodily self-reflection: the case of eloquent robes
+10.1145/2441776.2441897,inproceedings,2013.0,Proceedings of the 2013 Conference on Computer Supported Cooperative Work,Arguments about deletion: how experience improves the acceptability of arguments in ad-hoc online task groups
+10.1145/1753326.1753706,inproceedings,2010.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Code bubbles: a working set-based interface for code understanding and maintenance
+10.1145/270563.571468,article,1997.0,SIGACT News,"Review of Isomorphisms of Types: from λ-calculus to information retrieval and language design by Roberto Di Cosmo (Birkhauser, 1995)"
+10.1145/1963192.1963243,inproceedings,2011.0,Proceedings of the 20th International Conference Companion on World Wide Web,Generalized fact-finding
+10.1145/1979742.1979665,inproceedings,2011.0,CHI '11 Extended Abstracts on Human Factors in Computing Systems,Flo: raising family awareness about electricity use
+10.1145/2465780.2465785,article,2013.0,ACM Trans. Appl. Percept.,Learning to walk in virtual reality
+10.1145/2897518.2897525,inproceedings,2016.0,Proceedings of the Forty-Eighth Annual ACM Symposium on Theory of Computing,Repairing Reed-solomon codes
+,inproceedings,2010.0,Proceedings of the 73rd ASIS   amp;T Annual Meeting on Navigating Streams in an Information Ecosystem - Volume 47,Questions are content: a taxonomy of questions in a microblogging environment
+,inproceedings,2008.0,Proceedings of the 1st Eurographics Conference on 3D Object Retrieval,Part analogies in sets of objects
+,inproceedings,2010.0,Proceedings of the 11th Annual International Digital Government Research Conference on Public Administration Online: Challenges and Opportunities,Connecting cloud infrastructures with shared services
+10.1145/1005361.1005363,article,2004.0,ACM Trans. Comput.-Hum. Interact.,In pursuit of desktop evolution: User problems and practices with modern desktop systems
+10.1145/2461912.2461915,article,2013.0,ACM Trans. Graph.,Reciprocal frame structures made easy
+10.1109/TASLP.2016.2533858,article,2016.0,"IEEE/ACM Trans. Audio, Speech and Lang. Proc.",An end-to-end neural network for polyphonic piano music transcription
+10.1145/1836049.1836068,inproceedings,2010.0,Proceedings of the 15th International Conference on Web 3D Technology,ChartFlight: from spreadsheets to computer-animated data flights
+10.1145/2470654.2481318,inproceedings,2013.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,TouchViz: a case study comparing two interfaces for data analytics on tablets
+10.1145/1385569.1385613,inproceedings,2008.0,Proceedings of the Working Conference on Advanced Visual Interfaces,A physics-based approach for interactive manipulation of graph visualizations
+10.1145/2804302.2804310,inproceedings,2015.0,Proceedings of the 2015 ACM SIGPLAN Symposium on Haskell,Functional pearl: getting a quick fix on comonads
+10.1145/2538862.2538956,inproceedings,2014.0,Proceedings of the 45th ACM Technical Symposium on Computer Science Education,Effectiveness of a computational thinking (CS0) course on student analytical skills
+10.1145/1899503.1899529,inproceedings,2010.0,Proceedings of the 2010 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists,Parallel packet classification using GPU co-processors
+10.1145/1031607.1031702,inproceedings,2004.0,Proceedings of the 2004 ACM Conference on Computer Supported Cooperative Work,End-user controlled group formation and access rights management in a shared workspace system
+10.1145/1569901.1570226,inproceedings,2009.0,Proceedings of the 11th Annual Conference on Genetic and Evolutionary Computation,Benchmarking coevolutionary teaming under classification problems with large attribute spaces
+10.1109/TCBB.2014.2326862,article,2015.0,IEEE/ACM Trans. Comput. Biol. Bioinformatics,Global network alignment in the context of aging
+10.1145/2382936.2382976,inproceedings,2012.0,"Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine",A collective ranking method for genome-wide association studies
+10.1145/3301312,article,2019.0,ACM Trans. Algorithms,Sparse Dynamic Programming on DAGs with Small Width
+,inproceedings,2007.0,Proceedings of the Linguistic Annotation Workshop,Annotating expressions of appraisal in English
+10.1145/3072959.3073714,article,2017.0,ACM Trans. Graph.,Bounding proxies for shape approximation
+10.1145/2797143.2797174,inproceedings,2015.0,Proceedings of the 16th International Conference on Engineering Applications of Neural Networks (INNS),House of Ads: a Multiplayer Action Game for Annotating Ad Video Content
+10.1145/1390334.1390409,inproceedings,2008.0,Proceedings of the 31st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,TF-IDF uncovered: a study of theories and probabilities
+10.1145/1753326.1753521,inproceedings,2010.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Feminist HCI: taking stock and outlining an agenda for design
+10.1145/989863.989908,inproceedings,2004.0,Proceedings of the Working Conference on Advanced Visual Interfaces,Tangible interfaces in virtual environments for industrial design
+10.1145/2047594.2047646,inproceedings,2011.0,Proceedings of the 2011 Conference on Information Technology Education,"A minimal, extensible, drag-and-drop implementation of the C programming language"
+10.1145/2181216.2181230,inproceedings,2002.0,Proceedings of the SIGCHI-NZ Symposium on Computer-Human Interaction,Designing an interface for supporting information visualisation in eLearning discussion forums
+10.1145/1835449.1835513,inproceedings,2010.0,Proceedings of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval,Understanding web browsing behaviors through Weibull analysis of dwell time
+10.1145/2207676.2208339,inproceedings,2012.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Dwell-and-spring: undo for direct manipulation
+10.1145/2232817.2232894,inproceedings,2012.0,Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital Libraries,"Comparison of three digital library interfaces: open library, Google books, and Hathi Trust"
+,inproceedings,2010.0,Proceedings of the 23rd International Conference on Computational Linguistics,Automated translation of semantic relationships
+10.1145/2063576.2063693,inproceedings,2011.0,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,Toward traffic-driven location-based web search
+10.1109/CCGrid.2013.51,inproceedings,2013.0,"Proceedings of the 13th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing",A chemistry-inspired middleware for self-adaptive service orchestration and choreography
+10.1145/2030441.2030458,inproceedings,2011.0,"Proceedings of the International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging",Performing Animator instrument for live media
+10.1145/2506583.2508968,inproceedings,2013.0,"Proceedings of the International Conference on Bioinformatics, Computational Biology and Biomedical Informatics",Global Network Alignment In The Context Of Aging
+10.1145/2331140.2331144,article,2012.0,ACM Trans. Model. Comput. Simul.,A Framework for Selecting a Selection Procedure
+10.1145/2407746.2407766,inproceedings,2012.0,SIGGRAPH Asia 2012 Technical Briefs,3D Diff: an interactive approach to mesh differencing and conflict resolution
+10.1145/1599301.1599392,inproceedings,2009.0,SIGGRAPH '09: Posters,Single-pass rendering of composable volumetric lens effects
+10.1145/1753326.1753535,inproceedings,2010.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,pCubee: a perspective-corrected handheld cubic display
+10.1145/2254556.2254581,inproceedings,2012.0,Proceedings of the International Working Conference on Advanced Visual Interfaces,Looking behind bezels: french windows for wall displays
+10.1145/1543137.1543140,inproceedings,2008.0,Proceedings of the 7th International Conference on Mobile and Ubiquitous Multimedia,Designing multi-user multi-device systems: an architecture for multi-browsing applications
+,inproceedings,2006.0,Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing,Relevance feedback models for recommendation
+10.1145/1315843.1315879,inproceedings,2006.0,"Proceedings of the 1st International Conference on Bio Inspired Models of Network, Information and Computing Systems",Self-organization for search in peer-to-peer networks: the exploitation-exploration dilemma
+10.1145/1364654.1364692,inproceedings,2007.0,Proceedings of the 2007 ACM CoNEXT Conference,Promoting fluidity in the flow of packets of 802.11 wireless mesh networks
+10.1145/1148550.1148596,inproceedings,2005.0,Proceedings of the 17th Conference on l'Interaction Homme-Machine,Metisse: un syst\`{e}me de fen\^{e}trage hautement configurable et utilisable au quotidien
+,inproceedings,2009.0,Proceedings of the 9th International Conference on Computer Supported Collaborative Learning - Volume 2,Agile learning and collaboration: improvisational uses of group scribbles and other CSCL tools
+10.1145/1868914.1869000,inproceedings,2010.0,Proceedings of the 6th Nordic Conference on Human-Computer Interaction: Extending Boundaries,The city at hand: media installations as urban information systems
+10.1145/1719030.1719035,inproceedings,2009.0,Proceedings of the 2009 Workshop on New Security Paradigms Workshop,What is the shape of your security policy? security as a classification problem
+10.1145/2643188.2643189,inproceedings,2014.0,Proceedings of the 30th Spring Conference on Computer Graphics,A survey of direction-preserving layout strategies
+,inproceedings,2014.0,Proceedings of the 11th USENIX Conference on Networked Systems Design and Implementation,Adtributor: revenue debugging in advertising systems
+10.1145/2502081.2502125,inproceedings,2013.0,Proceedings of the 21st ACM International Conference on Multimedia,Tele echo tube: beyond cultural and imaginable boundaries
+10.1145/3184558.3193133,inproceedings,2018.0,Companion Proceedings of the The Web Conference 2018,Toward Approximate Intelligence: Approximate Query Engines &amp; Approximate Data Exploration
+10.1145/1553374.1553388,inproceedings,2009.0,Proceedings of the 26th Annual International Conference on Machine Learning,Probabilistic dyadic data analysis with local and global consistency
+10.1145/332040.332460,inproceedings,2000.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Programming and enjoying music with your eyes closed
+10.14778/2732977.2732991,article,2014.0,Proc. VLDB Endow.,On concise set of relative candidate keys
+10.1145/1449715.1449757,inproceedings,2008.0,Proceedings of the 21st Annual ACM Symposium on User Interface Software and Technology,Highlight: a system for creating and deploying mobile web applications
+10.1145/2380718.2380727,inproceedings,2012.0,Proceedings of the 4th Annual ACM Web Science Conference,A study of human flesh search with epidemic models
+10.1145/2649387.2660557,inproceedings,2014.0,"Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics",Global network alignment in the context of aging
+10.1145/2157136.2157164,inproceedings,2012.0,Proceedings of the 43rd ACM Technical Symposium on Computer Science Education,DeMystifying computing with magic
+10.1145/1655925.1656064,inproceedings,2009.0,"Proceedings of the 2nd International Conference on Interaction Sciences: Information Technology, Culture and Human",A literature review for a 6-sigma perception of academic quality
+10.1145/1645953.1646022,inproceedings,2009.0,Proceedings of the 18th ACM Conference on Information and Knowledge Management,Msuggest: a semantic recommender framework for traditional chinese medicine book search engine
+10.1145/1540438.1540450,inproceedings,2009.0,Proceedings of the 5th International Conference on Predictor Models in Software Engineering,Software effort estimation based on weighted fuzzy grey relational analysis
+10.1145/1012807.1012848,inproceedings,2004.0,Proceedings of the Fifteenth ACM Conference on Hypertext and Hypermedia,Manipulating history in generative hypermedia
+10.1145/1985793.1985868,inproceedings,2011.0,Proceedings of the 33rd International Conference on Software Engineering,Software systems as cities: a controlled experiment
+10.1145/1289971.1289986,inproceedings,2007.0,Proceedings of the 6th International Conference on Generative Programming and Component Engineering,Challenges in generating qos-constrained software implementations
+10.1145/1774088.1774407,inproceedings,2010.0,Proceedings of the 2010 ACM Symposium on Applied Computing,Visual processing-inspired fern-audio features for noise-robust speaker verification
+10.1145/2187980.2188092,inproceedings,2012.0,Proceedings of the 21st International Conference on World Wide Web,Developing domain-specific mashup tools for end users
+10.1145/1101908.1101960,inproceedings,2005.0,Proceedings of the 20th IEEE/ACM International Conference on Automated Software Engineering,A visual language and environment for composing web services
+10.1145/2598153.2598181,inproceedings,2014.0,Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces,Touchless circular menus: toward an intuitive UI for touchless interactions with large displays
+10.1145/1290082.1290111,inproceedings,2007.0,Proceedings of the International Workshop on Workshop on Multimedia Information Retrieval,Evaluating bag-of-visual-words representations in scene classification
+10.1145/1450579.1450633,inproceedings,2008.0,Proceedings of the 2008 ACM Symposium on Virtual Reality Software and Technology,Clutter-aware adaptive projection inside a dynamic environment
+10.1145/355541.355567,article,2000.0,J. ACM,Contention resolution with constant expected delay
+,inproceedings,2003.0,Proceedings of the 1st International Symposium on Information and Communication Technologies,An improved algorithm for semantic clustering
+10.1109/WI.2005.83,inproceedings,2005.0,Proceedings of the 2005 IEEE/WIC/ACM International Conference on Web Intelligence,Intelligent Web Information Mapping with HyperMap
+10.1145/2460999.2461005,inproceedings,2013.0,Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering,A case study on effectively identifying technical debt
+10.1145/1518701.1518786,inproceedings,2009.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Fly: a tool to author planar presentations
+10.3115/981923.981942,inproceedings,1981.0,Proceedings of the 19th Annual Meeting on Association for Computational Linguistics,Analogies in spontaneous discourse
+10.1145/2783258.2783406,inproceedings,2015.0,Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,0-Bit Consistent Weighted Sampling
+,inproceedings,2002.0,Eighteenth National Conference on Artificial Intelligence,A web-based ontology browsing and editing system
+10.1145/1279740.1279901,inproceedings,2007.0,Proceedings of the 7th International Conference on New Interfaces for Musical Expression,hystere
+10.1145/1056663.1056710,article,1982.0,SIGART Bull.,Research at MIT: AI Laboratory
+10.1145/2506583.2506588,inproceedings,2013.0,"Proceedings of the International Conference on Bioinformatics, Computational Biology and Biomedical Informatics",Using Global Network Alignment In The Context Of Aging
+10.1145/1526709.1526761,inproceedings,2009.0,Proceedings of the 18th International Conference on World Wide Web,An axiomatic approach for result diversification
+10.1145/1641804.1641837,inproceedings,2009.0,"Proceedings of the 12th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",Connection availability and transient survivability analysis in wireless ad-hoc networks
+10.1145/1753326.1753697,inproceedings,2010.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,MouseLight: bimanual interactions on digital paper using a pen and a spatially-aware mobile projector
+10.3115/981210.981244,inproceedings,1985.0,Proceedings of the 23rd Annual Meeting on Association for Computational Linguistics,Using an on-line dictionary to find rhyming words and pronunciations for unknown words
+10.1145/1409720.1409745,inproceedings,2008.0,Proceedings of the 4th ACM Symposium on Software Visualization,Visually localizing design problems with disharmony maps
+10.1145/1278940.1278956,inproceedings,2006.0,Proceedings of the 2006 Workshop on New Security Paradigms,Diffusion and graph spectral methods for network forensic analysis
+10.1145/1516360.1516467,inproceedings,2009.0,Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology,Flexible and scalable storage management for data-intensive stream processing
+10.1145/632716.632871,inproceedings,1999.0,CHI '99 Extended Abstracts on Human Factors in Computing Systems,Sweeping away disorder with the broom alignment tool
+10.1145/1368436.1368458,inproceedings,2006.0,Proceedings of the 2006 ACM CoNEXT Conference,Modeling the AIADD paradigm in networks with variable delays
+10.1145/2063576.2063926,inproceedings,2011.0,Proceedings of the 20th ACM International Conference on Information and Knowledge Management,Latent feature encoding using dyadic and relational data
+10.1145/1361684.1361689,article,2008.0,ACM Trans. Inf. Syst.,Unified relevance models for rating prediction in collaborative filtering
+10.1145/1376916.1376959,inproceedings,2008.0,Proceedings of the Twenty-Seventh ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems,Tree-width and functional dependencies in databases
+10.1145/1456223.1456351,inproceedings,2008.0,Proceedings of the 5th International Conference on Soft Computing as Transdisciplinary Science and Technology,How can ontologies support enterprise digital and paper archives? a case study
+10.1145/1066677.1066822,inproceedings,2005.0,Proceedings of the 2005 ACM Symposium on Applied Computing,Jelly view: a technology for arbitrarily advanced queries within RDBMS
+10.1145/1289927.1289954,inproceedings,2007.0,Proceedings of the 7th ACM    amp; IEEE International Conference on Embedded Software,Uniformity improving page allocation for flash memory file systems
+10.1145/641007.641121,inproceedings,2002.0,Proceedings of the Tenth ACM International Conference on Multimedia,Content-based organization and visualization of music archives
+10.1145/633292.633320,inproceedings,2000.0,CHI '00 Extended Abstracts on Human Factors in Computing Systems,Novel user interface technologies and conversational user interfaces for information appliances
+10.1145/2345316.2345320,inproceedings,2012.0,Proceedings of the 3rd International Conference on Computing for Geospatial Research and Applications,"On clusterization of ""big data"" streams"
+10.1145/1250790.1250830,inproceedings,2007.0,Proceedings of the Thirty-Ninth Annual ACM Symposium on Theory of Computing,Towards 3-query locally decodable codes of subexponential length
+10.1145/2078827.2078846,inproceedings,2011.0,Proceedings of the Seventh Symposium on Usable Privacy and Security,Eyeing your exposure: quantifying and controlling information sharing for improved privacy
+10.1145/2460999.2461031,inproceedings,2013.0,Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering,An ecological perspective towards the evolution of quantitative studies in software engineering
+10.1145/1629255.1629285,inproceedings,2009.0,2009 SIAM/ACM Joint Conference on Geometric and Physical Modeling,A sketching interface for feature curve recovery of free-form surfaces
+10.1145/218864.218869,article,1995.0,SIGARCH Comput. Archit. News,Airdisks and airRAID (expanded extract): modeling and scheduling periodic wireless data broadcast
+10.1145/1557019.1557098,inproceedings,2009.0,Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Audience selection for on-line brand advertising: privacy-friendly social network targeting
+10.1145/2330784.2330937,inproceedings,2012.0,Proceedings of the 14th Annual Conference Companion on Genetic and Evolutionary Computation,Hyper-heuristics and cross-domain optimization
+10.1145/776985.776992,article,2003.0,SIGMOD Rec.,Towards a database body of knowledge: a study from Spain
+10.1145/2018358.2018391,inproceedings,2011.0,Proceedings of the 13th International Conference on Artificial Intelligence and Law,Can temporal representation and reasoning make a difference in automated legal reasoning? lessons from an AI-based ethical reasoner
+10.1145/642611.642673,inproceedings,2003.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,UMEA: translating interaction histories into project contexts
+10.1145/2457317.2457328,inproceedings,2013.0,Proceedings of the Joint EDBT/ICDT 2013 Workshops,Structure inference for linked data sources using clustering
+10.1145/1324302.1324323,inproceedings,2007.0,Proceedings of the 8th ACM SIGITE Conference on Information Technology Education,"Restoring ""coding with intention"" in introductory programming courses"
+10.1145/1095034.1095038,inproceedings,2005.0,Proceedings of the 18th Annual ACM Symposium on User Interface Software and Technology,Metisse is not a 3D desktop!
+10.1145/1254960.1255036,inproceedings,2007.0,Proceedings of the 6th ACM SIGCHI Conference on Creativity    amp; Cognition,IdeaMurals: supporting ideation in public policy knowledge work
+10.1145/2089094.2089101,article,2012.0,ACM Trans. Intell. Syst. Technol.,"TIARA: Interactive, Topic-Based Visual Text Summarization and Analysis"
+,inproceedings,2004.0,Proceedings of the Ninth ACM Symposium on Solid Modeling and Applications,B-rep SE: simplicially enhanced boundary representation
+10.1145/1054972.1055084,inproceedings,2005.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,MultiView: spatially faithful group video conferencing
+10.1145/1028788.1028809,inproceedings,2004.0,Proceedings of the 4th ACM SIGCOMM Conference on Internet Measurement,Network radar: tomography from round trip time measurements
+10.1145/1999995.2000020,inproceedings,2011.0,"Proceedings of the 9th International Conference on Mobile Systems, Applications, and Services",Avoiding the rush hours: WiFi energy management via traffic isolation
+10.1145/2591796.2591808,inproceedings,2014.0,Proceedings of the Forty-Sixth Annual ACM Symposium on Theory of Computing,On derandomizing algorithms that err extremely rarely
+10.1145/1358628.1358787,inproceedings,2008.0,CHI '08 Extended Abstracts on Human Factors in Computing Systems,Evaluating automatically generated location-based stories for tourists
+,inproceedings,2007.0,Proceedings of the 18th Eurographics Conference on Rendering Techniques,General linear cameras with finite aperture
+10.1145/1645953.1646023,inproceedings,2009.0,Proceedings of the 18th ACM Conference on Information and Knowledge Management,"Interactive, topic-based visual text summarization and analysis"
+10.1145/3250295,inproceedings,2014.0,Proceedings of the Companion Publication of the 2014 Annual Conference on Genetic and Evolutionary Computation,Session details: Workshop: workshop on metaheuristic design patterns
+10.1145/1869790.1869829,inproceedings,2010.0,Proceedings of the 18th SIGSPATIAL International Conference on Advances in Geographic Information Systems,Bag-of-visual-words and spatial extensions for land-use classification
+10.1145/1378773.1378815,inproceedings,2008.0,Proceedings of the 13th International Conference on Intelligent User Interfaces,Case-based reasoning for procedure learning by instruction
+,article,2009.0,J. Artif. Int. Res.,Asynchronous forward bounding for distributed COPs
+10.1145/1402958.1402973,inproceedings,2008.0,Proceedings of the ACM SIGCOMM 2008 Conference on Data Communication,Network exception handlers: host-network control in enterprise networks
+10.1145/985921.985924,inproceedings,2004.0,CHI '04 Extended Abstracts on Human Factors in Computing Systems,"Ambient agoras: InfoRiver, SIAM, Hello.Wall"
+,article,2012.0,J. Mach. Learn. Res.,A local spectral method for graphs: with applications to improving graph partitions and exploring data graphs locally
+10.1145/1367497.1367525,inproceedings,2008.0,Proceedings of the 17th International Conference on World Wide Web,Trust-based recommendation systems: an axiomatic approach
+10.1145/1017074.1017087,inproceedings,2004.0,Proceedings of the 7th International Workshop on the Web and Databases: Colocated with ACM SIGMOD/PODS 2004,Twig query processing over graph-structured XML data
+10.1145/800230.806999,inproceedings,1982.0,Proceedings of the 1982 SIGPLAN Symposium on Compiler Construction,Control flow aspects of semantics directed compiling (Summary)
+,inproceedings,2010.0,Proceedings of the Eleventh Australasian Conference on User Interface - Volume 106,Life-sketch: a framework for sketch-based modelling and animation of 3D objects
+10.1145/1124772.1124887,inproceedings,2006.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Tabletop sharing of digital photographs for the elderly
+10.1145/1835804.1835946,inproceedings,2010.0,Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Scalable similarity search with optimized kernel hashing
+10.1145/1378063.1378102,inproceedings,2007.0,"Proceedings of the 4th International Conference on Mobile Technology, Applications, and Systems and the 1st International Symposium on Computer Human Interaction in Mobile Technology",Optimal bandwidth allocation for multimedia mobile networks using particle swarm optimization
+10.1145/569005.569018,inproceedings,2002.0,Proceedings of the 2nd International Symposium on Smart Graphics,Characterizing tool use in an interactive drawing environment
+10.1145/1459359.1459414,inproceedings,2008.0,Proceedings of the 16th ACM International Conference on Multimedia,Snap and share your photobooks
+10.1145/1086228.1086251,inproceedings,2005.0,Proceedings of the 5th ACM International Conference on Embedded Software,Using de-optimization to re-optimize code
+10.1145/1124772.1124941,inproceedings,2006.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Feeling what you hear: tactile feedback for navigation of audio graphs
+10.1145/604045.604115,inproceedings,2003.0,Proceedings of the 8th International Conference on Intelligent User Interfaces,nuSketch battlespace: a demonstration
+10.1145/1999320.1999329,inproceedings,2011.0,Proceedings of the 2nd International Conference on Computing for Geospatial Research    amp; Applications,"Enabling the ""Internet of Places"": a virtual structure of space-time-tasks to find and use internet resources"
+10.1145/2093698.2093856,inproceedings,2011.0,Proceedings of the 4th International Symposium on Applied Sciences in Biomedical and Communication Technologies,Field damage assessments as a design tool for information and communications technology systems that are resilient to natural disasters
+10.1145/1807167.1807241,inproceedings,2010.0,Proceedings of the 2010 ACM SIGMOD International Conference on Management of Data,Lineage processing over correlated probabilistic databases
+,inproceedings,2017.0,Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete Algorithms,Convergence of incentive-driven dynamics in fisher markets
+,inproceedings,2003.0,Proceedings of the 2nd IEEE/ACM International Symposium on Mixed and Augmented Reality,Herding Sheep: Live System Development for Distributed Augmented Reality
+,inproceedings,2003.0,Proceedings of the 25th International Conference on Software Engineering,Improving test suites via operational abstraction
+10.1145/302979.303150,inproceedings,1999.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Embodiment in conversational interfaces: Rea
+10.1162/1063656053583414,article,2005.0,Evol. Comput.,Drift and Scaling in Estimation of Distribution Algorithms
+,inproceedings,1994.0,Proceedings of the Conference on Visualization '94,An annotation system for 3D fluid flow visualization
+10.1145/1708046.1708058,inproceedings,2010.0,Proceedings of the 5th ACM SIGPLAN Workshop on Declarative Aspects of Multicore Programming,Efficient parallel programming in Poly/ML and Isabelle/ML
+10.1145/1180639.1180825,inproceedings,2006.0,Proceedings of the 14th ACM International Conference on Multimedia,"Towards optimal audio ""keywords"" detection for audio content analysis and discovery"
+10.1145/956750.956757,inproceedings,2003.0,Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Generative model-based clustering of directional data
+10.1145/564691.564707,inproceedings,2002.0,Proceedings of the 2002 ACM SIGMOD International Conference on Management of Data,Covering indexes for branching path queries
+10.1145/1376616.1376675,inproceedings,2008.0,Proceedings of the 2008 ACM SIGMOD International Conference on Management of Data,Efficient aggregation for graph summarization
+10.1145/154630.154633,inproceedings,1993.0,Proceedings of the 1993 ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation,Constructor specialization
+10.1145/2037296.2037302,inproceedings,2011.0,Proceedings of the 9th ACM SIGCHI Italian Chapter International Conference on Computer-Human Interaction: Facing Complexity,Trust: nature and dynamics
+10.1145/1636665.1636668,article,2009.0,ACM Trans. Auton. Adapt. Syst.,An immunologically-inspired autonomic framework for self-organizing and evolvable network applications
+10.3115/1075671.1075696,inproceedings,1993.0,Proceedings of the Workshop on Human Language Technology,Improved keyword-spotting using SRI's DECIPHER™ large-vocabuarly speech-recognition system
+,inproceedings,1993.0,Proceedings of the 7th International Workshop on Software Specification and Design,An active hypertext model for system requirements
+10.14778/1687627.1687753,article,2009.0,Proc. VLDB Endow.,Continuous monitoring of nearest neighbors on land surface
+10.1145/503272.503300,inproceedings,2002.0,Proceedings of the 29th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,Exploiting prolific types for memory management and optimizations
+10.1145/1052380.1052395,inproceedings,2004.0,Proceedings of the 3rd International Conference on Mobile and Ubiquitous Multimedia,Fast watermark detection scheme for camera-equipped cellular phone
+10.1145/1007568.1007589,inproceedings,2004.0,Proceedings of the 2004 ACM SIGMOD International Conference on Management of Data,Cost-based labeling of groups of mass spectra
+,article,2005.0,J. Mach. Learn. Res.,Generalization Bounds for the Area Under the ROC Curve
+,inproceedings,2013.0,Proceedings of the Twenty-Fourth Annual ACM-SIAM Symposium on Discrete Algorithms,Local-search based approximation algorithms for mobile facility location problems
+10.1145/1190315.1190317,inproceedings,2007.0,Proceedings of the 2007 ACM SIGPLAN International Workshop on Types in Languages Design and Implementation,Typing ad hoc data
+,inproceedings,2004.0,Proceedings of the Thirtieth International Conference on Very Large Data Bases - Volume 30,Model-driven data acquisition in sensor networks
+10.1007/PL00011168,article,2000.0,Form. Asp. Comput.,Editorial
+10.1162/evco.1999.7.3.231,article,1999.0,Evol. Comput.,"The gambler's ruin problem, genetic algorithms, and the sizing of populations"
+10.1145/604045.604064,inproceedings,2003.0,Proceedings of the 8th International Conference on Intelligent User Interfaces,Learning implicit user interest hierarchy for context in personalization
+10.1145/67449.67506,inproceedings,1989.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,The tourist artificial reality
+10.1145/302979.303127,inproceedings,1999.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,Getting more out of programming-by-demonstration
+10.1145/142750.142762,inproceedings,1992.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,An interface for interactive spatial reasoning and visualization
+10.1145/584993.585013,inproceedings,2001.0,"Proceedings of the 2001 Conference on Virtual Reality, Archeology, and Cultural Heritage",An easy-to-use visualization system for huge cultural heritage meshes
+10.1145/1050305.1050308,article,2004.0,SIGCAS Comput. Soc.,The Digital Society and Its Enemies: A Critique of 'On the Internet'
+10.1145/948496.948513,inproceedings,1998.0,Proceedings of the Working Conference on Advanced Visual Interfaces,Engineering the usability of visual formalisms: a case study in real time logics
+,article,2010.0,J. Comput. Sci. Coll.,Ensemble: enriching communities and collections to support education in computing: poster session
+10.1145/376957.376982,inproceedings,2001.0,Proceedings of the Sixth ACM Symposium on Solid Modeling and Applications,Volumetric multi-texturing for functionally gradient material representation
+10.1145/317456.317479,inproceedings,1985.0,Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,A comparison of symbolic and spatial filing
+,inproceedings,2002.0,Proceedings of the 2002 Annual National Conference on Digital Government Research,Toward spatio-temporal models of biogeophysical fields for ecological forecasting
+10.1145/73141.74830,inproceedings,1989.0,Proceedings of the ACM SIGPLAN 1989 Conference on Programming Language Design and Implementation,Higher order attribute grammars
+10.1145/3600211.3604754,inproceedings,2023.0,"Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society",Towards a Holistic Approach: Understanding Sociodemographic Biases in NLP Models using an Interdisciplinary Lens
+10.1145/1809029.1809035,inproceedings,2010.0,Proceedings of the 2nd Workshop on Grids Meets Autonomic Computing,Towards grid/clouds challenges for autonomic computing
+10.1145/2038476.2038507,inproceedings,2011.0,Proceedings of the 29th ACM International Conference on Design of Communication,Natural interaction in ambient intelligent environments
+10.1145/91385.91434,inproceedings,1990.0,Proceedings of the 1990 Symposium on Interactive 3D Graphics,The ThingWorld modeling system: virtual sculpting by modal forces
+10.1145/254945.254958,article,1997.0,ACM Trans. Comput.-Hum. Interact.,TeleNotes: managing lightweight interactions in the desktop
+10.1145/1499586.1499731,inproceedings,1973.0,"Proceedings of the June 4-8, 1973, National Computer Conference and Exposition",Information theory and privacy in data banks
+10.1145/1504347.1504363,article,2009.0,ACM Commun. Comput. Algebra,Sparse multivariate polynomial interpolation via the quotient-difference algorithm
+10.1145/966221.966239,article,2003.0,SIGSOFT Softw. Eng. Notes,The effects of individual XP practices on software development effort
+10.1145/154766.155376,inproceedings,1993.0,The Second ACM SIGPLAN Conference on History of Programming Languages,Ada—the project: the DoD high order language working group
+10.1145/2717764.2723574,inproceedings,2015.0,Proceedings of the 2015 Symposium on International Symposium on Physical Design,Physical Layout Design of Directed Self-Assembly Guiding Alphabet for IC Contact Hole/via Patterning
+10.1145/182591.182615,inproceedings,1994.0,Proceedings of the Thirteenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems,Functional database query languages as typed lambda calculi of fixed order (extended abstract)
+10.1145/357062.357072,article,1979.0,ACM Trans. Program. Lang. Syst.,A Deterministic Attribute Grammar Evaluator Based on Dynamic Scheduling
+10.1145/369133.369179,inproceedings,2001.0,Proceedings of the Fifth Annual International Conference on Computational Biology,"Hunger for new technologies, metrics, and spatiotemporal models in functional genomic (abstract only)"
+10.3115/1077146.1077151,inproceedings,1986.0,Proceedings of the Workshop on Strategic Computing Natural Language,The counselor project at the University of Massachusetts
+,inproceedings,2000.0,Proceedings of the COLING-2000 Workshop on Efficiency In Large-Scale Parsing Systems,"Cross-platform, cross-grammar comparison: can it be done?"
+10.1145/196734.196746,article,1994.0,ACM Trans. Inf. Syst.,Rich and lean representations of information for knowledge work: the role of computing packages in the work of classical scholars
+10.1145/800127.804141,inproceedings,1978.0,Proceedings of the 1978 Annual Conference,Conditions On Acquisitional Models
+10.1145/1141753.1141858,inproceedings,2006.0,Proceedings of the 6th ACM/IEEE-CS Joint Conference on Digital Libraries,Keeping the context: an investigation in preserving collections of digital video
+10.1145/359038.359043,article,1980.0,Commun. ACM,Deletion in two-dimensional quad trees
+10.1145/800224.806805,inproceedings,1981.0,Proceedings of the 8th Annual Conference on Computer Graphics and Interactive Techniques,An integrated system for creating and presenting complex computer-based documents
+,inproceedings,1983.0,Proceedings of the 15th Conference on Winter Simulation - Volume 2,Walsh functions for spectral analysis
+10.1145/1499402.1499523,inproceedings,1977.0,"Proceedings of the June 13-16, 1977, National Computer Conference",Sorting with associative secondary storage devices
+10.1145/800276.810985,inproceedings,1981.0,Proceedings of the Joint Conference on Easier and More Productive Use of Computer Systems. (Part - II): Human Interface and the User Interface - Volume 1981,Concise natural language interaction (abstract only)
+10.1145/321812.321813,article,1974.0,J. ACM,Some Binary Derivation Systems
+10.1145/28315.28355,inproceedings,1987.0,Proceedings of the International Conference on APL: APL in Transition,Implications of APL2 grammar
+10.1145/800038.801049,inproceedings,1983.0,Proceedings of the Fourteenth SIGCSE Technical Symposium on Computer Science Education,Installation of a commercial database management system in a university environment
+10.1145/126729.1056048,article,1991.0,SIGCHI Bull.,MAKING MARKS SELF-REVEALING
+10.1145/317426.317445,inproceedings,1987.0,Proceedings of the ACM Conference on Hypertext,Exploring representation problems using hypertext
+10.1145/84537.84552,article,1990.0,Commun. ACM,Likelihood ratio gradient estimation for stochastic systems
+10.1145/800250.807476,inproceedings,1980.0,Proceedings of the 7th Annual Conference on Computer Graphics and Interactive Techniques,A structure from manipulation for text-graphic objects
+10.1145/1148170.1148171,inproceedings,2006.0,Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,Quantum haystacks
+10.1145/800266.810764,inproceedings,1965.0,Proceedings of the SHARE Design Automation Project,Cost value of design automation
+,inproceedings,1985.0,Proceedings of the 22nd ACM/IEEE Design Automation Conference,Computer aided design for analog applications (panel session): an assessment
+10.1145/1102974.1102976,article,1974.0,SIGSOC Bull.,A view of the data file access problem from the perspective of a research librarian
+10.1145/1185448.1185636,inproceedings,2006.0,Proceedings of the 44th Annual ACM Southeast Conference,Software cultivation using the artificial intelligence design framework
+10.1145/800120.803922,inproceedings,1973.0,Proceedings of the Eleventh Annual SIGCPS Computer Personnel Research Conference,Cognitive predictors of success in computer programmer training
+10.1145/800006.807998,inproceedings,1971.0,Proceedings of the International Symposium on Extensible Languages,PPL - an extensible language that failed
+,inproceedings,1990.0,Proceedings of the 5th International Software Process Workshop on Experience with Software Process Models,The Arcadia research project
+10.1145/320599.320670,inproceedings,1985.0,Proceedings of the 1985 ACM Thirteenth Annual Conference on Computer Science,The human factors of natural language query systems
+10.1145/97426.97997,inproceedings,1990.0,Proceedings of the 8th Annual International Conference on Systems Documentation,Artificial neural networks as cognitive tools for professional writing
+10.1145/62548.62657,inproceedings,1988.0,Proceedings of the 16th Annual ACM SIGUCCS Conference on User Services,Hypermedia: a face lift for presentation research and development: a user services function
+10.1145/15433.15850,inproceedings,1986.0,Proceedings of the Third ACM-SIGOIS Conference on Office Information Systems,On the malleability of people and computers: a focused approach to office ethnography
+10.1145/74311.74318,inproceedings,1989.0,Proceedings of the 7th Annual International Conference on Systems Documentation,Creating effective hypercard online documentation and training
+10.1145/17701.255364,inproceedings,1985.0,Proceedings of the International Conference on APL: APL and the Future,XPL: an expert systems framework in APL

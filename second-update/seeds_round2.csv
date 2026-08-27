@@ -1,0 +1,17 @@
+id,label
+ACL:2021.acl-long.280,ushio2021bert
+ACL:2022.emnlp-main.232,sultan2022circus
+ACL:2023.acl-long.109,hu2023incontext
+ACL:2020.conll-1.29,fournier2020minusanalogy
+DOI:10.1038/s41467-023-40804-x,webb2023pam-natcomms
+DOI:10.1109/ICDM54844.2022.00132,xu2022deepgar
+DOI:10.5220/0014458900004052,icaart2026proportional
+DOI:10.1109/TCDS.2025.3559771,tcds2025tradeoff
+DOI:10.1038/s41562-023-01659-w,webb2023emergent-nhb
+DOI:10.48550/arXiv.2502.20332,yang2025symbolic
+DOI:10.48550/arXiv.2311.01860,jacob2023fame
+DOI:10.48550/arXiv.2211.15268,czinczoll2022scan
+DOI:10.18653/v1/2025.naacl-long.54,wang2025anascore
+DOI:10.18653/v1/2025.findings-acl.819,qiu2025annotators
+d1a1a97b3423f489bddb5f7720049a04f82b05ff,prototypical2025relational
+DOI:10.48550/arXiv.2310.20384,johnson2025children
